@@ -1,0 +1,4960 @@
+cuisine,zipcode,count
+American,11691,35
+American,10271,28
+American,10279,25
+American,10280,11
+American,10281,138
+American,10282,114
+American,10285,20
+American,10301,498
+American,10302,137
+American,10303,101
+American,10304,148
+American,10305,252
+American,10306,314
+American,10307,93
+American,10308,94
+American,10309,253
+American,10310,259
+American,10311,21
+American,10312,234
+American,10314,748
+American,11354,380
+American,11355,119
+American,11356,91
+American,11357,100
+American,11358,205
+American,11360,114
+American,11361,364
+American,11362,42
+American,11363,48
+American,11364,96
+American,11365,121
+American,11366,36
+American,11367,50
+American,11368,424
+American,11369,318
+American,11370,66
+American,11371,114
+American,11372,346
+American,11373,302
+American,11374,227
+American,11375,487
+American,11377,378
+American,11378,284
+American,11379,48
+American,11385,777
+American,10179,5
+American,11412,33
+American,11413,53
+American,11414,131
+American,11415,160
+American,11416,129
+American,11417,243
+American,11418,221
+American,11419,144
+American,11420,254
+American,11421,160
+American,11422,157
+American,11423,20
+American,11426,144
+American,11427,49
+American,11428,16
+American,11429,35
+American,11430,900
+American,11432,427
+American,11433,53
+American,11434,207
+American,11435,349
+American,11436,96
+American,11451,32
+American,11040,128
+American,10451,672
+American,10452,159
+American,10453,66
+American,10454,223
+American,10455,84
+American,10456,90
+American,10457,190
+American,10458,380
+American,10459,110
+American,10460,131
+American,10461,445
+American,10462,428
+American,10463,460
+American,10464,132
+American,10465,374
+American,10466,132
+American,10467,193
+American,10468,230
+American,10469,178
+American,10470,116
+American,10471,241
+American,10472,133
+American,10473,87
+American,10474,144
+American,10475,184
+American,11001,16
+American,11004,4
+American,11005,14
+American,10199,14
+American,10001,2249
+American,10002,1651
+American,10003,2483
+American,10004,585
+American,10005,318
+American,10006,277
+American,10007,586
+American,10009,1635
+American,10010,1295
+American,10011,2102
+American,10012,1819
+American,10013,1819
+American,10014,1956
+American,10016,1936
+American,10017,1776
+American,10018,1835
+American,10019,3401
+American,10020,251
+American,10021,710
+American,10022,2306
+American,10023,678
+American,10024,753
+American,10025,758
+American,10026,469
+American,10027,652
+American,10028,892
+American,10029,598
+American,10030,60
+American,10031,332
+American,10032,328
+American,10033,156
+American,10034,373
+American,10035,182
+American,10036,3223
+American,10037,136
+American,10038,808
+American,10039,55
+American,10040,161
+American,10044,24
+American,10048,6
+American,10057,12
+American,10065,788
+American,10069,29
+American,10075,321
+American,11101,1541
+American,11102,296
+American,11103,563
+American,11104,361
+American,11105,326
+American,11106,400
+American,11109,39
+American,10104,34
+American,10105,13
+American,10106,4
+American,10111,26
+American,10112,30
+American,10118,22
+American,10119,46
+American,10121,138
+American,10128,690
+American,10152,9
+American,10153,16
+American,10155,7
+American,11693,128
+American,11694,115
+American,11697,46
+American,10165,14
+American,10167,24
+American,10168,5
+American,10169,5
+American,10171,10
+American,10176,12
+American,11201,1606
+American,10178,2
+American,11203,149
+American,11204,97
+American,11205,540
+American,11206,509
+American,11207,279
+American,11208,72
+American,11209,1108
+American,11210,99
+American,11211,1844
+American,11212,110
+American,11213,164
+American,11214,240
+American,11215,1296
+American,11216,355
+American,11217,1171
+American,11218,314
+American,11219,46
+American,11220,338
+American,11221,211
+American,11222,898
+American,11223,305
+American,11224,340
+American,11225,256
+American,11226,297
+American,11228,175
+American,11229,181
+American,11230,148
+American,11231,930
+American,11232,222
+American,11233,174
+American,11234,469
+American,11235,446
+American,11236,151
+American,11237,641
+American,11238,1264
+American,11239,52
+American,11245,1
+American,11249,935
+American,11256,20
+Chinese,10280,19
+Chinese,10281,28
+Chinese,10301,105
+Chinese,10302,157
+Chinese,10303,27
+Chinese,10304,92
+Chinese,10305,122
+Chinese,10306,158
+Chinese,10307,45
+Chinese,10308,69
+Chinese,10309,71
+Chinese,10310,37
+Chinese,10312,100
+Chinese,10314,182
+Chinese,11352,41
+Chinese,11354,2557
+Chinese,11355,1910
+Chinese,11356,124
+Chinese,11357,53
+Chinese,11358,110
+Chinese,11360,18
+Chinese,11361,130
+Chinese,11362,195
+Chinese,11363,36
+Chinese,11364,151
+Chinese,11365,109
+Chinese,11366,92
+Chinese,11367,111
+Chinese,11368,321
+Chinese,11369,71
+Chinese,11370,49
+Chinese,11372,310
+Chinese,11373,547
+Chinese,11374,104
+Chinese,11375,243
+Chinese,11377,225
+Chinese,11378,183
+Chinese,11379,90
+Chinese,11385,273
+Chinese,11411,98
+Chinese,11412,100
+Chinese,11413,104
+Chinese,11414,74
+Chinese,11415,33
+Chinese,11416,115
+Chinese,11417,172
+Chinese,11418,116
+Chinese,11419,274
+Chinese,11420,137
+Chinese,11421,156
+Chinese,11422,57
+Chinese,11423,34
+Chinese,11426,67
+Chinese,11427,64
+Chinese,11428,68
+Chinese,11429,64
+Chinese,11430,16
+Chinese,11432,349
+Chinese,11433,41
+Chinese,11434,196
+Chinese,11435,267
+Chinese,11436,64
+Chinese,10016,413
+Chinese,10451,169
+Chinese,10452,261
+Chinese,10453,224
+Chinese,10454,142
+Chinese,10455,140
+Chinese,10456,250
+Chinese,10457,160
+Chinese,10458,293
+Chinese,10459,146
+Chinese,10460,121
+Chinese,10461,230
+Chinese,10462,238
+Chinese,10463,155
+Chinese,10464,16
+Chinese,10465,84
+Chinese,10466,202
+Chinese,10467,335
+Chinese,10468,144
+Chinese,10469,137
+Chinese,10470,51
+Chinese,10471,64
+Chinese,10472,196
+Chinese,10473,103
+Chinese,10474,49
+Chinese,10475,107
+Chinese,11004,29
+Chinese,10001,209
+Chinese,10002,1976
+Chinese,10003,467
+Chinese,10004,29
+Chinese,10005,13
+Chinese,10006,61
+Chinese,10007,8
+Chinese,10009,135
+Chinese,10010,164
+Chinese,10011,272
+Chinese,10012,89
+Chinese,10013,2066
+Chinese,10014,76
+Chinese,11040,67
+Chinese,10017,118
+Chinese,10018,298
+Chinese,10019,345
+Chinese,10021,96
+Chinese,10022,306
+Chinese,10023,81
+Chinese,10024,136
+Chinese,10025,355
+Chinese,10026,79
+Chinese,10027,154
+Chinese,10028,96
+Chinese,10029,258
+Chinese,10030,31
+Chinese,10031,181
+Chinese,10032,174
+Chinese,10033,150
+Chinese,10034,59
+Chinese,10035,95
+Chinese,10036,308
+Chinese,10037,50
+Chinese,10038,224
+Chinese,10039,72
+Chinese,10040,38
+Chinese,10065,51
+Chinese,10075,54
+Chinese,11101,127
+Chinese,11102,62
+Chinese,11103,76
+Chinese,11104,92
+Chinese,11105,123
+Chinese,11106,230
+Chinese,11109,23
+Chinese,10128,182
+Chinese,11691,154
+Chinese,11692,11
+Chinese,11693,51
+Chinese,11694,104
+Chinese,10169,6
+Chinese,11201,264
+Chinese,11203,220
+Chinese,11204,521
+Chinese,11205,157
+Chinese,11206,178
+Chinese,11207,378
+Chinese,11208,314
+Chinese,11209,287
+Chinese,11210,227
+Chinese,11211,243
+Chinese,11212,324
+Chinese,11213,382
+Chinese,11214,1121
+Chinese,11215,316
+Chinese,11216,218
+Chinese,11217,148
+Chinese,11218,190
+Chinese,11219,496
+Chinese,11220,2505
+Chinese,11221,261
+Chinese,11222,168
+Chinese,11223,324
+Chinese,11224,104
+Chinese,11225,176
+Chinese,11226,459
+Chinese,11228,113
+Chinese,11229,345
+Chinese,11230,120
+Chinese,11231,97
+Chinese,11232,238
+Chinese,11233,209
+Chinese,11234,313
+Chinese,11235,189
+Chinese,11236,391
+Chinese,11237,177
+Chinese,11238,185
+Chinese,11239,15
+Chinese,11249,70
+Pizza,10301,102
+Pizza,10302,97
+Pizza,10303,7
+Pizza,10304,55
+Pizza,10305,50
+Pizza,10306,31
+Pizza,10307,34
+Pizza,10308,53
+Pizza,10309,10
+Pizza,10310,10
+Pizza,10312,117
+Pizza,10314,239
+Pizza,11354,39
+Pizza,11355,103
+Pizza,11356,35
+Pizza,11357,70
+Pizza,11358,52
+Pizza,11361,130
+Pizza,11362,20
+Pizza,11364,17
+Pizza,11365,35
+Pizza,11366,33
+Pizza,11367,45
+Pizza,11368,194
+Pizza,11369,37
+Pizza,11370,27
+Pizza,11372,202
+Pizza,11373,84
+Pizza,11374,85
+Pizza,11375,156
+Pizza,11377,121
+Pizza,11378,113
+Pizza,11379,31
+Pizza,11385,325
+Pizza,11412,61
+Pizza,11413,30
+Pizza,11414,33
+Pizza,11415,21
+Pizza,11416,93
+Pizza,11417,44
+Pizza,11418,97
+Pizza,11419,27
+Pizza,11420,116
+Pizza,11421,55
+Pizza,11422,39
+Pizza,11423,17
+Pizza,11426,62
+Pizza,11427,22
+Pizza,11428,42
+Pizza,11429,10
+Pizza,11430,66
+Pizza,11432,180
+Pizza,11433,18
+Pizza,11434,107
+Pizza,11435,63
+Pizza,11436,18
+Pizza,11040,21
+Pizza,10451,167
+Pizza,10452,93
+Pizza,10453,106
+Pizza,10454,63
+Pizza,10455,173
+Pizza,10456,51
+Pizza,10457,62
+Pizza,10458,297
+Pizza,10459,149
+Pizza,10460,112
+Pizza,10461,77
+Pizza,10462,192
+Pizza,10463,97
+Pizza,10465,130
+Pizza,10466,76
+Pizza,10467,223
+Pizza,10468,73
+Pizza,10469,219
+Pizza,10470,102
+Pizza,10471,36
+Pizza,10472,146
+Pizza,10473,35
+Pizza,10474,28
+Pizza,10475,29
+Pizza,11004,33
+Pizza,10001,201
+Pizza,10002,343
+Pizza,10003,293
+Pizza,10004,75
+Pizza,10005,37
+Pizza,10006,27
+Pizza,10007,108
+Pizza,10009,210
+Pizza,10010,180
+Pizza,10011,266
+Pizza,10012,147
+Pizza,10013,96
+Pizza,10014,180
+Pizza,10016,201
+Pizza,10017,110
+Pizza,10018,143
+Pizza,10019,285
+Pizza,10021,51
+Pizza,10022,167
+Pizza,10023,132
+Pizza,10024,66
+Pizza,10025,176
+Pizza,10026,21
+Pizza,10027,96
+Pizza,10028,116
+Pizza,10029,255
+Pizza,10030,39
+Pizza,10031,104
+Pizza,10032,113
+Pizza,10033,150
+Pizza,10034,69
+Pizza,10035,100
+Pizza,10036,212
+Pizza,10038,70
+Pizza,10039,14
+Pizza,10040,75
+Pizza,10065,94
+Pizza,10075,69
+Pizza,11101,120
+Pizza,11102,153
+Pizza,11103,179
+Pizza,11104,69
+Pizza,11105,117
+Pizza,11106,119
+Pizza,10119,14
+Pizza,10121,13
+Pizza,10128,117
+Pizza,11691,120
+Pizza,11692,15
+Pizza,11693,15
+Pizza,11694,65
+Pizza,10169,5
+Pizza,10175,8
+Pizza,11201,263
+Pizza,11203,42
+Pizza,11204,109
+Pizza,11205,66
+Pizza,11206,112
+Pizza,11207,148
+Pizza,11208,147
+Pizza,11209,301
+Pizza,11210,17
+Pizza,11211,253
+Pizza,11212,126
+Pizza,11213,55
+Pizza,11214,118
+Pizza,11215,179
+Pizza,11216,139
+Pizza,11217,145
+Pizza,11218,207
+Pizza,11219,50
+Pizza,11220,149
+Pizza,11221,122
+Pizza,11222,126
+Pizza,11223,125
+Pizza,11224,90
+Pizza,11225,196
+Pizza,11226,139
+Pizza,11228,77
+Pizza,11229,192
+Pizza,11230,113
+Pizza,11231,69
+Pizza,11232,83
+Pizza,11233,43
+Pizza,11234,97
+Pizza,11235,75
+Pizza,11236,162
+Pizza,11237,134
+Pizza,11238,121
+Pizza,11239,36
+Pizza,11249,24
+Latin,10301,68
+Latin,10302,6
+Latin,10303,77
+Latin,10304,10
+Latin,10305,9
+Latin,10310,16
+Latin,10314,11
+Latin,11354,23
+Latin,11355,119
+Latin,11356,49
+Latin,11358,37
+Latin,11361,40
+Latin,11365,15
+Latin,11367,26
+Latin,11368,1235
+Latin,11369,130
+Latin,11372,1451
+Latin,11373,332
+Latin,11374,66
+Latin,11375,63
+Latin,11377,567
+Latin,11378,14
+Latin,11385,346
+Latin,11418,176
+Latin,11420,27
+Latin,11421,220
+Latin,11423,61
+Latin,11427,24
+Latin,11428,78
+Latin,11432,159
+Latin,11433,20
+Latin,11435,227
+Latin,10451,53
+Latin,10452,371
+Latin,10453,285
+Latin,10454,155
+Latin,10455,250
+Latin,10456,195
+Latin,10457,242
+Latin,10458,268
+Latin,10459,185
+Latin,10460,140
+Latin,10461,99
+Latin,10462,155
+Latin,10463,106
+Latin,10465,28
+Latin,10466,55
+Latin,10467,138
+Latin,10468,298
+Latin,10469,7
+Latin,10470,4
+Latin,10471,24
+Latin,10472,280
+Latin,10473,22
+Latin,10474,94
+Latin,10001,67
+Latin,10002,111
+Latin,10003,52
+Latin,10004,59
+Latin,10009,219
+Latin,10010,41
+Latin,10011,82
+Latin,10012,123
+Latin,10013,54
+Latin,10014,90
+Latin,10016,49
+Latin,10017,40
+Latin,10018,132
+Latin,10019,142
+Latin,10021,27
+Latin,10022,26
+Latin,10023,17
+Latin,10024,89
+Latin,10025,168
+Latin,10026,3
+Latin,10027,30
+Latin,10028,9
+Latin,10029,201
+Latin,10030,56
+Latin,10031,144
+Latin,10032,458
+Latin,10033,286
+Latin,10034,480
+Latin,10035,57
+Latin,10036,186
+Latin,10038,26
+Latin,10040,238
+Latin,10065,66
+Latin,11101,207
+Latin,11103,179
+Latin,11104,152
+Latin,11105,32
+Latin,11106,177
+Latin,11109,46
+Latin,11691,114
+Latin,11693,31
+Latin,11694,17
+Latin,11201,70
+Latin,11204,33
+Latin,11205,158
+Latin,11206,240
+Latin,11207,407
+Latin,11208,242
+Latin,11209,17
+Latin,11210,34
+Latin,11211,287
+Latin,11212,68
+Latin,11213,12
+Latin,11214,59
+Latin,11215,128
+Latin,11216,27
+Latin,11217,109
+Latin,11218,10
+Latin,11219,74
+Latin,11220,367
+Latin,11221,196
+Latin,11222,16
+Latin,11223,42
+Latin,11224,26
+Latin,11225,38
+Latin,11226,114
+Latin,11230,32
+Latin,11231,93
+Latin,11232,165
+Latin,11233,56
+Latin,11236,4
+Latin,11237,317
+Latin,11238,20
+Italian,10281,16
+Italian,10282,36
+Italian,10301,104
+Italian,10303,18
+Italian,10305,238
+Italian,10306,129
+Italian,10307,79
+Italian,10308,182
+Italian,10309,85
+Italian,10310,86
+Italian,10312,216
+Italian,10314,203
+Italian,11354,22
+Italian,11356,18
+Italian,11357,163
+Italian,11358,38
+Italian,11360,58
+Italian,11361,34
+Italian,11362,87
+Italian,11363,42
+Italian,11364,68
+Italian,11365,26
+Italian,11366,13
+Italian,11368,45
+Italian,11369,22
+Italian,11370,32
+Italian,11372,19
+Italian,11373,24
+Italian,11374,16
+Italian,11375,158
+Italian,11377,45
+Italian,11378,8
+Italian,11379,79
+Italian,11385,63
+Italian,11414,80
+Italian,11417,11
+Italian,11418,33
+Italian,11419,29
+Italian,11420,30
+Italian,11426,23
+Italian,11427,24
+Italian,11430,53
+Italian,11435,14
+Italian,10016,466
+Italian,10451,33
+Italian,10455,2
+Italian,10458,392
+Italian,10461,199
+Italian,10462,52
+Italian,10463,30
+Italian,10464,47
+Italian,10465,13
+Italian,10469,12
+Italian,10470,38
+Italian,10471,20
+Italian,10475,29
+Italian,10001,113
+Italian,10002,155
+Italian,10003,611
+Italian,10004,103
+Italian,10005,25
+Italian,10007,66
+Italian,10009,158
+Italian,10010,162
+Italian,10011,541
+Italian,10012,652
+Italian,10013,1163
+Italian,10014,539
+Italian,11040,30
+Italian,10017,244
+Italian,10018,179
+Italian,10019,689
+Italian,10021,315
+Italian,10022,526
+Italian,10023,275
+Italian,10024,256
+Italian,10025,191
+Italian,10026,39
+Italian,10027,120
+Italian,10028,251
+Italian,10029,51
+Italian,10031,123
+Italian,10032,4
+Italian,10033,31
+Italian,10034,69
+Italian,10035,36
+Italian,10036,624
+Italian,10038,131
+Italian,10065,242
+Italian,10075,206
+Italian,11101,150
+Italian,11102,26
+Italian,11103,77
+Italian,11104,69
+Italian,11105,99
+Italian,11106,114
+Italian,11109,21
+Italian,10104,27
+Italian,10106,5
+Italian,10112,16
+Italian,10119,29
+Italian,10121,6
+Italian,10128,210
+Italian,11694,17
+Italian,11201,376
+Italian,11204,87
+Italian,11205,64
+Italian,11206,25
+Italian,11207,7
+Italian,11209,169
+Italian,11211,167
+Italian,11214,68
+Italian,11215,326
+Italian,11217,152
+Italian,11218,61
+Italian,11219,37
+Italian,11220,13
+Italian,11221,54
+Italian,11222,112
+Italian,11223,128
+Italian,11224,19
+Italian,11225,1
+Italian,11228,98
+Italian,11229,20
+Italian,11230,29
+Italian,11231,121
+Italian,11232,7
+Italian,11233,24
+Italian,11234,79
+Italian,11235,40
+Italian,11236,10
+Italian,11237,45
+Italian,11238,226
+Italian,11239,26
+Italian,11249,220
+Cafe/Coffee/Tea,10155,1
+Cafe/Coffee/Tea,11694,5
+Cafe/Coffee/Tea,10270,12
+Cafe/Coffee/Tea,10281,29
+Cafe/Coffee/Tea,10282,12
+Cafe/Coffee/Tea,10301,16
+Cafe/Coffee/Tea,10302,2
+Cafe/Coffee/Tea,10304,14
+Cafe/Coffee/Tea,10305,13
+Cafe/Coffee/Tea,10306,10
+Cafe/Coffee/Tea,10307,10
+Cafe/Coffee/Tea,10309,22
+Cafe/Coffee/Tea,10310,24
+Cafe/Coffee/Tea,10314,46
+Cafe/Coffee/Tea,11354,180
+Cafe/Coffee/Tea,11355,44
+Cafe/Coffee/Tea,11356,10
+Cafe/Coffee/Tea,11357,10
+Cafe/Coffee/Tea,11358,122
+Cafe/Coffee/Tea,11361,64
+Cafe/Coffee/Tea,11362,23
+Cafe/Coffee/Tea,11364,4
+Cafe/Coffee/Tea,11365,15
+Cafe/Coffee/Tea,11366,5
+Cafe/Coffee/Tea,11368,61
+Cafe/Coffee/Tea,11369,14
+Cafe/Coffee/Tea,11372,70
+Cafe/Coffee/Tea,11373,144
+Cafe/Coffee/Tea,11374,15
+Cafe/Coffee/Tea,11375,69
+Cafe/Coffee/Tea,11377,98
+Cafe/Coffee/Tea,11378,2
+Cafe/Coffee/Tea,11379,24
+Cafe/Coffee/Tea,11385,323
+Cafe/Coffee/Tea,11414,16
+Cafe/Coffee/Tea,11416,3
+Cafe/Coffee/Tea,11418,15
+Cafe/Coffee/Tea,11419,16
+Cafe/Coffee/Tea,11421,3
+Cafe/Coffee/Tea,11422,5
+Cafe/Coffee/Tea,11426,5
+Cafe/Coffee/Tea,11428,12
+Cafe/Coffee/Tea,11430,135
+Cafe/Coffee/Tea,11432,43
+Cafe/Coffee/Tea,11433,15
+Cafe/Coffee/Tea,11434,7
+Cafe/Coffee/Tea,11435,5
+Cafe/Coffee/Tea,10451,28
+Cafe/Coffee/Tea,10454,8
+Cafe/Coffee/Tea,10456,22
+Cafe/Coffee/Tea,10457,37
+Cafe/Coffee/Tea,10458,131
+Cafe/Coffee/Tea,10460,5
+Cafe/Coffee/Tea,10461,85
+Cafe/Coffee/Tea,10462,88
+Cafe/Coffee/Tea,10463,21
+Cafe/Coffee/Tea,10464,32
+Cafe/Coffee/Tea,10465,45
+Cafe/Coffee/Tea,10467,25
+Cafe/Coffee/Tea,10468,37
+Cafe/Coffee/Tea,10469,36
+Cafe/Coffee/Tea,10472,13
+Cafe/Coffee/Tea,10474,29
+Cafe/Coffee/Tea,10475,22
+Cafe/Coffee/Tea,11004,8
+Cafe/Coffee/Tea,10001,504
+Cafe/Coffee/Tea,10002,483
+Cafe/Coffee/Tea,10003,742
+Cafe/Coffee/Tea,10004,133
+Cafe/Coffee/Tea,10005,71
+Cafe/Coffee/Tea,10006,21
+Cafe/Coffee/Tea,10007,142
+Cafe/Coffee/Tea,10009,204
+Cafe/Coffee/Tea,10010,257
+Cafe/Coffee/Tea,10011,525
+Cafe/Coffee/Tea,10012,381
+Cafe/Coffee/Tea,10013,531
+Cafe/Coffee/Tea,10014,482
+Cafe/Coffee/Tea,10016,237
+Cafe/Coffee/Tea,10017,391
+Cafe/Coffee/Tea,10018,315
+Cafe/Coffee/Tea,10019,366
+Cafe/Coffee/Tea,10020,30
+Cafe/Coffee/Tea,10021,195
+Cafe/Coffee/Tea,10022,260
+Cafe/Coffee/Tea,10023,246
+Cafe/Coffee/Tea,10024,189
+Cafe/Coffee/Tea,10025,175
+Cafe/Coffee/Tea,10026,45
+Cafe/Coffee/Tea,10027,84
+Cafe/Coffee/Tea,10028,146
+Cafe/Coffee/Tea,10029,62
+Cafe/Coffee/Tea,10030,53
+Cafe/Coffee/Tea,10031,83
+Cafe/Coffee/Tea,10032,53
+Cafe/Coffee/Tea,10033,11
+Cafe/Coffee/Tea,10034,41
+Cafe/Coffee/Tea,10035,5
+Cafe/Coffee/Tea,10036,418
+Cafe/Coffee/Tea,10038,145
+Cafe/Coffee/Tea,10039,8
+Cafe/Coffee/Tea,10040,15
+Cafe/Coffee/Tea,10044,16
+Cafe/Coffee/Tea,10065,174
+Cafe/Coffee/Tea,10069,6
+Cafe/Coffee/Tea,10075,104
+Cafe/Coffee/Tea,11101,177
+Cafe/Coffee/Tea,11102,46
+Cafe/Coffee/Tea,11103,262
+Cafe/Coffee/Tea,11104,40
+Cafe/Coffee/Tea,11105,39
+Cafe/Coffee/Tea,11106,49
+Cafe/Coffee/Tea,11109,33
+Cafe/Coffee/Tea,10103,3
+Cafe/Coffee/Tea,10104,4
+Cafe/Coffee/Tea,10105,10
+Cafe/Coffee/Tea,10107,6
+Cafe/Coffee/Tea,10112,19
+Cafe/Coffee/Tea,10118,8
+Cafe/Coffee/Tea,10119,34
+Cafe/Coffee/Tea,10128,120
+Cafe/Coffee/Tea,10154,1
+Cafe/Coffee/Tea,11691,11
+Cafe/Coffee/Tea,10158,5
+Cafe/Coffee/Tea,10165,3
+Cafe/Coffee/Tea,10166,5
+Cafe/Coffee/Tea,10168,19
+Cafe/Coffee/Tea,10169,7
+Cafe/Coffee/Tea,10173,4
+Cafe/Coffee/Tea,11201,402
+Cafe/Coffee/Tea,11203,29
+Cafe/Coffee/Tea,11204,114
+Cafe/Coffee/Tea,11205,139
+Cafe/Coffee/Tea,11206,134
+Cafe/Coffee/Tea,11207,33
+Cafe/Coffee/Tea,11208,23
+Cafe/Coffee/Tea,11209,162
+Cafe/Coffee/Tea,11210,66
+Cafe/Coffee/Tea,11211,360
+Cafe/Coffee/Tea,11212,29
+Cafe/Coffee/Tea,11213,35
+Cafe/Coffee/Tea,11214,143
+Cafe/Coffee/Tea,11215,337
+Cafe/Coffee/Tea,11216,280
+Cafe/Coffee/Tea,11217,159
+Cafe/Coffee/Tea,11218,53
+Cafe/Coffee/Tea,11220,143
+Cafe/Coffee/Tea,11221,209
+Cafe/Coffee/Tea,11222,262
+Cafe/Coffee/Tea,11223,79
+Cafe/Coffee/Tea,11224,4
+Cafe/Coffee/Tea,11225,154
+Cafe/Coffee/Tea,11226,77
+Cafe/Coffee/Tea,11228,11
+Cafe/Coffee/Tea,11229,79
+Cafe/Coffee/Tea,11230,80
+Cafe/Coffee/Tea,11231,126
+Cafe/Coffee/Tea,11232,31
+Cafe/Coffee/Tea,11233,105
+Cafe/Coffee/Tea,11234,34
+Cafe/Coffee/Tea,11235,44
+Cafe/Coffee/Tea,11236,13
+Cafe/Coffee/Tea,11237,216
+Cafe/Coffee/Tea,11238,301
+Cafe/Coffee/Tea,11241,7
+Cafe/Coffee/Tea,11249,187
+Mexican,10280,21
+Mexican,10281,6
+Mexican,10282,8
+Mexican,10301,121
+Mexican,10302,129
+Mexican,10304,61
+Mexican,10305,74
+Mexican,10306,15
+Mexican,10307,13
+Mexican,10308,8
+Mexican,10309,22
+Mexican,10310,78
+Mexican,10314,34
+Mexican,11356,16
+Mexican,11358,8
+Mexican,11361,38
+Mexican,11362,9
+Mexican,11365,10
+Mexican,11368,581
+Mexican,11369,31
+Mexican,11372,551
+Mexican,11373,165
+Mexican,11374,17
+Mexican,11375,48
+Mexican,11377,217
+Mexican,11378,64
+Mexican,11385,165
+Mexican,11417,36
+Mexican,11418,62
+Mexican,11421,111
+Mexican,11423,32
+Mexican,11428,13
+Mexican,11430,50
+Mexican,11432,15
+Mexican,11435,182
+Mexican,10451,106
+Mexican,10452,118
+Mexican,10453,149
+Mexican,10454,95
+Mexican,10455,161
+Mexican,10456,6
+Mexican,10457,27
+Mexican,10458,149
+Mexican,10459,46
+Mexican,10460,4
+Mexican,10461,36
+Mexican,10462,102
+Mexican,10463,100
+Mexican,10465,82
+Mexican,10467,114
+Mexican,10468,233
+Mexican,10471,52
+Mexican,10472,127
+Mexican,10474,13
+Mexican,10475,6
+Mexican,10001,23
+Mexican,10002,162
+Mexican,10003,529
+Mexican,10004,67
+Mexican,10005,17
+Mexican,10006,5
+Mexican,10007,34
+Mexican,10009,164
+Mexican,10010,125
+Mexican,10011,211
+Mexican,10012,184
+Mexican,10013,103
+Mexican,10014,207
+Mexican,10016,200
+Mexican,10017,125
+Mexican,10018,80
+Mexican,10019,342
+Mexican,10020,23
+Mexican,10021,28
+Mexican,10022,104
+Mexican,10023,94
+Mexican,10024,70
+Mexican,10025,210
+Mexican,10026,61
+Mexican,10027,35
+Mexican,10028,107
+Mexican,10029,536
+Mexican,10030,7
+Mexican,10031,186
+Mexican,10032,124
+Mexican,10033,19
+Mexican,10034,188
+Mexican,10035,63
+Mexican,10036,276
+Mexican,10038,36
+Mexican,10040,26
+Mexican,10065,18
+Mexican,10075,23
+Mexican,11101,143
+Mexican,11102,73
+Mexican,11103,96
+Mexican,11104,63
+Mexican,11105,43
+Mexican,11106,164
+Mexican,10104,3
+Mexican,10118,27
+Mexican,10119,21
+Mexican,10121,6
+Mexican,10128,89
+Mexican,11694,10
+Mexican,10169,7
+Mexican,11201,174
+Mexican,11204,75
+Mexican,11205,170
+Mexican,11206,169
+Mexican,11207,16
+Mexican,11208,68
+Mexican,11209,165
+Mexican,11210,12
+Mexican,11211,180
+Mexican,11214,63
+Mexican,11215,233
+Mexican,11216,50
+Mexican,11217,98
+Mexican,11218,164
+Mexican,11219,128
+Mexican,11220,570
+Mexican,11221,50
+Mexican,11222,105
+Mexican,11223,199
+Mexican,11224,22
+Mexican,11225,66
+Mexican,11226,105
+Mexican,11228,35
+Mexican,11229,86
+Mexican,11230,46
+Mexican,11231,48
+Mexican,11232,269
+Mexican,11233,16
+Mexican,11234,43
+Mexican,11235,54
+Mexican,11236,2
+Mexican,11237,475
+Mexican,11238,260
+Mexican,11249,143
+Japanese,10281,7
+Japanese,10301,15
+Japanese,10302,4
+Japanese,10303,4
+Japanese,10304,17
+Japanese,10305,47
+Japanese,10306,76
+Japanese,10307,11
+Japanese,10308,61
+Japanese,10309,38
+Japanese,10310,11
+Japanese,10312,111
+Japanese,10314,164
+Japanese,11354,155
+Japanese,11356,7
+Japanese,11357,20
+Japanese,11358,107
+Japanese,11361,87
+Japanese,11362,73
+Japanese,11364,73
+Japanese,11365,55
+Japanese,11366,43
+Japanese,11367,7
+Japanese,11369,4
+Japanese,11372,103
+Japanese,11373,99
+Japanese,11374,97
+Japanese,11375,199
+Japanese,11377,24
+Japanese,11378,28
+Japanese,11379,1
+Japanese,11385,102
+Japanese,11414,56
+Japanese,11415,14
+Japanese,11418,13
+Japanese,11421,11
+Japanese,11430,41
+Japanese,11432,35
+Japanese,11435,15
+Japanese,10454,24
+Japanese,10458,14
+Japanese,10461,79
+Japanese,10463,29
+Japanese,10464,13
+Japanese,10465,49
+Japanese,10471,48
+Japanese,10475,17
+Japanese,10001,280
+Japanese,10002,266
+Japanese,10003,1217
+Japanese,10004,64
+Japanese,10005,14
+Japanese,10007,57
+Japanese,10009,260
+Japanese,10010,140
+Japanese,10011,409
+Japanese,10012,487
+Japanese,10013,364
+Japanese,10014,284
+Japanese,10016,383
+Japanese,10017,576
+Japanese,10018,135
+Japanese,10019,639
+Japanese,10020,15
+Japanese,10021,223
+Japanese,10022,438
+Japanese,10023,99
+Japanese,10024,128
+Japanese,10025,169
+Japanese,10027,131
+Japanese,10028,247
+Japanese,10029,25
+Japanese,10031,17
+Japanese,10033,47
+Japanese,10034,34
+Japanese,10035,19
+Japanese,10036,343
+Japanese,10038,135
+Japanese,10044,3
+Japanese,10065,142
+Japanese,10069,11
+Japanese,10075,103
+Japanese,11101,103
+Japanese,11103,133
+Japanese,11104,83
+Japanese,11105,123
+Japanese,11106,82
+Japanese,10112,5
+Japanese,10118,5
+Japanese,10119,7
+Japanese,10128,181
+Japanese,11693,6
+Japanese,11694,27
+Japanese,10169,9
+Japanese,11201,296
+Japanese,11204,150
+Japanese,11205,66
+Japanese,11206,48
+Japanese,11207,27
+Japanese,11209,198
+Japanese,11210,6
+Japanese,11211,182
+Japanese,11212,8
+Japanese,11214,206
+Japanese,11215,248
+Japanese,11216,86
+Japanese,11217,139
+Japanese,11218,22
+Japanese,11219,55
+Japanese,11220,79
+Japanese,11221,3
+Japanese,11222,109
+Japanese,11223,26
+Japanese,11225,16
+Japanese,11226,18
+Japanese,11228,31
+Japanese,11229,174
+Japanese,11230,10
+Japanese,11231,63
+Japanese,11232,2
+Japanese,11234,28
+Japanese,11235,224
+Japanese,11237,109
+Japanese,11238,159
+Japanese,11249,88
+Caribbean,11106,20
+Caribbean,10027,86
+Caribbean,10461,31
+Caribbean,11201,13
+Caribbean,11692,13
+Caribbean,10510,27
+Caribbean,11693,5
+Caribbean,11233,126
+Caribbean,11411,155
+Caribbean,11412,265
+Caribbean,11413,404
+Caribbean,11417,111
+Caribbean,11416,22
+Caribbean,10009,34
+Caribbean,11418,120
+Caribbean,11419,532
+Caribbean,10012,43
+Caribbean,10458,5
+Caribbean,11422,173
+Caribbean,11423,59
+Caribbean,10017,6
+Caribbean,10011,33
+Caribbean,11428,216
+Caribbean,11429,118
+Caribbean,11432,219
+Caribbean,11433,119
+Caribbean,11434,229
+Caribbean,11691,126
+Caribbean,11436,26
+Caribbean,10029,60
+Caribbean,10030,87
+Caribbean,10031,46
+Caribbean,11420,375
+Caribbean,10035,130
+Caribbean,11224,38
+Caribbean,10462,54
+Caribbean,10039,60
+Caribbean,10301,17
+Caribbean,10302,3
+Caribbean,10037,9
+Caribbean,10176,14
+Caribbean,10470,108
+Caribbean,11203,1280
+Caribbean,11205,62
+Caribbean,11206,34
+Caribbean,11207,168
+Caribbean,11208,154
+Caribbean,11210,372
+Caribbean,11211,43
+Caribbean,11212,502
+Caribbean,11213,645
+Caribbean,11357,3
+Caribbean,11215,4
+Caribbean,11216,409
+Caribbean,11217,152
+Caribbean,11218,24
+Caribbean,10451,52
+Caribbean,11221,6
+Caribbean,10455,50
+Caribbean,10456,68
+Caribbean,11225,493
+Caribbean,11226,1117
+Caribbean,10459,29
+Caribbean,10460,26
+Caribbean,11101,13
+Caribbean,11230,7
+Caribbean,11237,27
+Caribbean,11234,158
+Caribbean,10466,516
+Caribbean,10467,265
+Caribbean,11236,714
+Caribbean,10469,489
+Caribbean,11238,138
+Caribbean,11239,34
+Caribbean,10472,20
+Caribbean,11369,7
+Caribbean,10475,55
+Caribbean,10019,10
+Caribbean,11435,138
+Caribbean,10025,43
+Caribbean,10026,40
+Caribbean,10453,11
+Bakery,10281,15
+Bakery,10301,26
+Bakery,10302,86
+Bakery,10304,4
+Bakery,10305,104
+Bakery,10306,17
+Bakery,10308,6
+Bakery,10309,29
+Bakery,10310,36
+Bakery,10312,53
+Bakery,10314,30
+Bakery,11354,364
+Bakery,11355,295
+Bakery,11356,1
+Bakery,11357,44
+Bakery,11358,36
+Bakery,11361,59
+Bakery,11362,52
+Bakery,11364,29
+Bakery,11366,10
+Bakery,11368,155
+Bakery,11369,35
+Bakery,11371,3
+Bakery,11372,267
+Bakery,11373,413
+Bakery,11374,32
+Bakery,11375,141
+Bakery,11377,77
+Bakery,11378,48
+Bakery,11379,37
+Bakery,11385,119
+Bakery,11411,62
+Bakery,11414,49
+Bakery,11415,7
+Bakery,11417,66
+Bakery,11418,66
+Bakery,11419,39
+Bakery,11421,69
+Bakery,11423,53
+Bakery,11426,28
+Bakery,11428,36
+Bakery,11429,27
+Bakery,11430,6
+Bakery,11432,47
+Bakery,11434,20
+Bakery,11435,61
+Bakery,10451,26
+Bakery,10452,91
+Bakery,10453,88
+Bakery,10454,23
+Bakery,10455,67
+Bakery,10456,70
+Bakery,10457,45
+Bakery,10458,96
+Bakery,10459,71
+Bakery,10460,11
+Bakery,10461,75
+Bakery,10462,109
+Bakery,10463,42
+Bakery,10466,30
+Bakery,10467,38
+Bakery,10468,129
+Bakery,10469,34
+Bakery,10470,13
+Bakery,10472,101
+Bakery,10475,17
+Bakery,10001,50
+Bakery,10002,388
+Bakery,10003,127
+Bakery,10004,5
+Bakery,10007,29
+Bakery,10009,28
+Bakery,10010,24
+Bakery,10011,87
+Bakery,10012,171
+Bakery,10013,535
+Bakery,10014,138
+Bakery,10016,29
+Bakery,10017,45
+Bakery,10018,75
+Bakery,10019,113
+Bakery,10020,10
+Bakery,10022,102
+Bakery,10023,95
+Bakery,10024,72
+Bakery,10025,66
+Bakery,10026,57
+Bakery,10027,6
+Bakery,10028,36
+Bakery,10029,137
+Bakery,10030,13
+Bakery,10031,108
+Bakery,10032,133
+Bakery,10033,94
+Bakery,10034,33
+Bakery,10035,46
+Bakery,10036,50
+Bakery,10037,19
+Bakery,10038,163
+Bakery,10040,102
+Bakery,10065,52
+Bakery,10075,20
+Bakery,11101,25
+Bakery,11102,20
+Bakery,11103,93
+Bakery,11104,45
+Bakery,11105,75
+Bakery,11106,123
+Bakery,10112,9
+Bakery,10119,4
+Bakery,10121,10
+Bakery,10128,6
+Bakery,11693,1
+Bakery,11694,9
+Bakery,10169,5
+Bakery,11201,72
+Bakery,11203,62
+Bakery,11204,395
+Bakery,11205,30
+Bakery,11206,65
+Bakery,11207,53
+Bakery,11208,83
+Bakery,11209,151
+Bakery,11210,11
+Bakery,11211,126
+Bakery,11212,4
+Bakery,11213,60
+Bakery,11214,156
+Bakery,11215,214
+Bakery,11216,60
+Bakery,11217,22
+Bakery,11218,60
+Bakery,11219,77
+Bakery,11220,732
+Bakery,11221,35
+Bakery,11222,110
+Bakery,11223,64
+Bakery,11224,6
+Bakery,11225,28
+Bakery,11226,77
+Bakery,11228,6
+Bakery,11229,146
+Bakery,11230,19
+Bakery,11231,52
+Bakery,11232,86
+Bakery,11233,1
+Bakery,11234,70
+Bakery,11235,16
+Bakery,11236,66
+Bakery,11237,138
+Bakery,11238,41
+Bakery,11249,30
+Spanish,10301,82
+Spanish,10302,28
+Spanish,10303,36
+Spanish,10304,28
+Spanish,10306,54
+Spanish,10307,17
+Spanish,10308,46
+Spanish,10310,30
+Spanish,11354,9
+Spanish,11356,64
+Spanish,11357,8
+Spanish,11358,50
+Spanish,11362,22
+Spanish,11365,14
+Spanish,11366,14
+Spanish,11368,734
+Spanish,11369,57
+Spanish,11370,7
+Spanish,11372,713
+Spanish,11373,157
+Spanish,11375,34
+Spanish,11377,172
+Spanish,11378,21
+Spanish,11379,48
+Spanish,11385,215
+Spanish,11414,8
+Spanish,11416,44
+Spanish,11417,94
+Spanish,11418,114
+Spanish,11419,4
+Spanish,11420,44
+Spanish,11421,198
+Spanish,11422,14
+Spanish,11428,55
+Spanish,11432,245
+Spanish,11434,40
+Spanish,11435,142
+Spanish,10016,26
+Spanish,10451,67
+Spanish,10452,201
+Spanish,10453,172
+Spanish,10454,195
+Spanish,10455,187
+Spanish,10456,128
+Spanish,10457,219
+Spanish,10458,184
+Spanish,10459,136
+Spanish,10460,19
+Spanish,10461,92
+Spanish,10462,66
+Spanish,10463,90
+Spanish,10464,8
+Spanish,10466,36
+Spanish,10467,198
+Spanish,10468,106
+Spanish,10469,40
+Spanish,10470,11
+Spanish,10471,2
+Spanish,10472,150
+Spanish,10473,60
+Spanish,10474,96
+Spanish,10001,93
+Spanish,10002,88
+Spanish,10003,28
+Spanish,10007,47
+Spanish,10009,80
+Spanish,10011,212
+Spanish,10012,68
+Spanish,10013,15
+Spanish,10014,60
+Spanish,11040,12
+Spanish,10017,41
+Spanish,10019,5
+Spanish,10022,19
+Spanish,10025,22
+Spanish,10026,41
+Spanish,10027,71
+Spanish,10028,18
+Spanish,10029,104
+Spanish,10031,172
+Spanish,10032,155
+Spanish,10033,235
+Spanish,10034,127
+Spanish,10035,92
+Spanish,10036,85
+Spanish,10037,45
+Spanish,10038,34
+Spanish,10040,184
+Spanish,11101,171
+Spanish,11102,41
+Spanish,11103,65
+Spanish,11104,46
+Spanish,11105,16
+Spanish,11106,125
+Spanish,10128,14
+Spanish,11691,22
+Spanish,10166,9
+Spanish,11201,82
+Spanish,11203,4
+Spanish,11205,49
+Spanish,11206,159
+Spanish,11207,284
+Spanish,11208,191
+Spanish,11209,16
+Spanish,11211,67
+Spanish,11212,125
+Spanish,11213,18
+Spanish,11214,111
+Spanish,11215,49
+Spanish,11216,51
+Spanish,11217,35
+Spanish,11218,93
+Spanish,11219,97
+Spanish,11220,122
+Spanish,11221,209
+Spanish,11222,17
+Spanish,11223,33
+Spanish,11224,15
+Spanish,11225,6
+Spanish,11226,55
+Spanish,11230,10
+Spanish,11232,237
+Spanish,11236,29
+Spanish,11237,306
+Pizza/Italian,10280,29
+Pizza/Italian,10281,18
+Pizza/Italian,10301,36
+Pizza/Italian,10302,76
+Pizza/Italian,10303,22
+Pizza/Italian,10304,122
+Pizza/Italian,10305,148
+Pizza/Italian,10306,212
+Pizza/Italian,10307,52
+Pizza/Italian,10308,43
+Pizza/Italian,10309,94
+Pizza/Italian,10310,86
+Pizza/Italian,10312,128
+Pizza/Italian,10314,114
+Pizza/Italian,11354,39
+Pizza/Italian,11355,20
+Pizza/Italian,11356,51
+Pizza/Italian,11357,10
+Pizza/Italian,11358,50
+Pizza/Italian,11360,30
+Pizza/Italian,11361,23
+Pizza/Italian,11362,39
+Pizza/Italian,11363,7
+Pizza/Italian,11364,17
+Pizza/Italian,11365,30
+Pizza/Italian,11366,59
+Pizza/Italian,11367,24
+Pizza/Italian,11368,103
+Pizza/Italian,11370,15
+Pizza/Italian,11371,13
+Pizza/Italian,11372,44
+Pizza/Italian,11373,56
+Pizza/Italian,11375,76
+Pizza/Italian,11377,36
+Pizza/Italian,11378,139
+Pizza/Italian,11379,67
+Pizza/Italian,11385,161
+Pizza/Italian,11412,9
+Pizza/Italian,11414,26
+Pizza/Italian,11415,26
+Pizza/Italian,11416,42
+Pizza/Italian,11417,27
+Pizza/Italian,11418,4
+Pizza/Italian,11419,11
+Pizza/Italian,11421,77
+Pizza/Italian,11430,13
+Pizza/Italian,11432,24
+Pizza/Italian,10451,73
+Pizza/Italian,10452,37
+Pizza/Italian,10453,36
+Pizza/Italian,10454,35
+Pizza/Italian,10455,95
+Pizza/Italian,10456,26
+Pizza/Italian,10458,127
+Pizza/Italian,10459,21
+Pizza/Italian,10460,10
+Pizza/Italian,10461,154
+Pizza/Italian,10462,59
+Pizza/Italian,10463,81
+Pizza/Italian,10464,27
+Pizza/Italian,10465,1
+Pizza/Italian,10466,43
+Pizza/Italian,10467,46
+Pizza/Italian,10468,24
+Pizza/Italian,10469,13
+Pizza/Italian,10471,55
+Pizza/Italian,10473,5
+Pizza/Italian,10474,20
+Pizza/Italian,10475,8
+Pizza/Italian,11001,16
+Pizza/Italian,10001,151
+Pizza/Italian,10002,63
+Pizza/Italian,10003,135
+Pizza/Italian,10004,28
+Pizza/Italian,10007,12
+Pizza/Italian,10009,38
+Pizza/Italian,10010,42
+Pizza/Italian,10011,112
+Pizza/Italian,10012,114
+Pizza/Italian,10013,17
+Pizza/Italian,10014,63
+Pizza/Italian,10016,244
+Pizza/Italian,10017,81
+Pizza/Italian,10018,52
+Pizza/Italian,10019,95
+Pizza/Italian,10021,30
+Pizza/Italian,10022,50
+Pizza/Italian,10023,82
+Pizza/Italian,10024,39
+Pizza/Italian,10025,115
+Pizza/Italian,10028,65
+Pizza/Italian,10031,49
+Pizza/Italian,10032,5
+Pizza/Italian,10033,20
+Pizza/Italian,10034,8
+Pizza/Italian,10035,6
+Pizza/Italian,10036,104
+Pizza/Italian,10037,13
+Pizza/Italian,10038,38
+Pizza/Italian,10039,22
+Pizza/Italian,10044,15
+Pizza/Italian,10065,48
+Pizza/Italian,10075,37
+Pizza/Italian,11101,10
+Pizza/Italian,11102,19
+Pizza/Italian,11103,52
+Pizza/Italian,11104,41
+Pizza/Italian,11105,23
+Pizza/Italian,11106,56
+Pizza/Italian,10128,98
+Pizza/Italian,11693,39
+Pizza/Italian,11694,44
+Pizza/Italian,11201,88
+Pizza/Italian,11204,60
+Pizza/Italian,11205,25
+Pizza/Italian,11206,70
+Pizza/Italian,11207,37
+Pizza/Italian,11208,39
+Pizza/Italian,11209,172
+Pizza/Italian,11210,10
+Pizza/Italian,11211,86
+Pizza/Italian,11212,35
+Pizza/Italian,11213,26
+Pizza/Italian,11214,168
+Pizza/Italian,11215,188
+Pizza/Italian,11216,6
+Pizza/Italian,11217,87
+Pizza/Italian,11218,40
+Pizza/Italian,11219,51
+Pizza/Italian,11220,62
+Pizza/Italian,11221,31
+Pizza/Italian,11222,50
+Pizza/Italian,11223,45
+Pizza/Italian,11226,47
+Pizza/Italian,11228,108
+Pizza/Italian,11229,168
+Pizza/Italian,11230,75
+Pizza/Italian,11231,98
+Pizza/Italian,11232,53
+Pizza/Italian,11234,62
+Pizza/Italian,11235,127
+Pizza/Italian,11236,18
+Pizza/Italian,11237,32
+Pizza/Italian,11238,8
+Pizza/Italian,11249,24
+Chicken,10301,26
+Chicken,10302,32
+Chicken,10303,16
+Chicken,10304,10
+Chicken,10306,30
+Chicken,10308,13
+Chicken,10309,4
+Chicken,10310,18
+Chicken,10314,7
+Chicken,11354,71
+Chicken,11355,14
+Chicken,11356,8
+Chicken,11358,74
+Chicken,11361,9
+Chicken,11366,13
+Chicken,11368,34
+Chicken,11370,4
+Chicken,11372,42
+Chicken,11373,18
+Chicken,11377,28
+Chicken,11379,11
+Chicken,11385,62
+Chicken,11411,7
+Chicken,11412,54
+Chicken,11413,4
+Chicken,11414,12
+Chicken,11415,11
+Chicken,11416,10
+Chicken,11417,19
+Chicken,11418,38
+Chicken,11419,58
+Chicken,11420,38
+Chicken,11421,35
+Chicken,11422,20
+Chicken,11423,11
+Chicken,11427,35
+Chicken,11428,19
+Chicken,11429,15
+Chicken,11432,172
+Chicken,11433,78
+Chicken,11434,68
+Chicken,11435,31
+Chicken,11436,39
+Chicken,10451,96
+Chicken,10452,116
+Chicken,10453,136
+Chicken,10454,32
+Chicken,10455,72
+Chicken,10456,83
+Chicken,10457,79
+Chicken,10458,68
+Chicken,10459,110
+Chicken,10460,19
+Chicken,10461,38
+Chicken,10462,66
+Chicken,10463,13
+Chicken,10465,6
+Chicken,10466,45
+Chicken,10467,65
+Chicken,10468,92
+Chicken,10469,41
+Chicken,10470,10
+Chicken,10472,51
+Chicken,10473,26
+Chicken,10475,82
+Chicken,11004,12
+Chicken,10002,10
+Chicken,10003,48
+Chicken,10006,64
+Chicken,10007,37
+Chicken,10009,51
+Chicken,10010,61
+Chicken,10011,78
+Chicken,10016,45
+Chicken,10017,24
+Chicken,10018,75
+Chicken,10019,23
+Chicken,10024,25
+Chicken,10025,54
+Chicken,10026,89
+Chicken,10027,78
+Chicken,10028,19
+Chicken,10029,87
+Chicken,10030,6
+Chicken,10031,51
+Chicken,10032,54
+Chicken,10033,37
+Chicken,10034,52
+Chicken,10035,23
+Chicken,10036,55
+Chicken,10037,46
+Chicken,10038,31
+Chicken,10039,20
+Chicken,10040,40
+Chicken,10065,22
+Chicken,11101,23
+Chicken,11102,4
+Chicken,11103,70
+Chicken,11105,31
+Chicken,11106,58
+Chicken,10121,18
+Chicken,11691,61
+Chicken,10169,8
+Chicken,11201,26
+Chicken,11203,95
+Chicken,11205,41
+Chicken,11206,21
+Chicken,11207,118
+Chicken,11208,160
+Chicken,11209,9
+Chicken,11210,17
+Chicken,11211,29
+Chicken,11212,243
+Chicken,11213,69
+Chicken,11214,25
+Chicken,11215,37
+Chicken,11216,152
+Chicken,11217,52
+Chicken,11218,23
+Chicken,11220,79
+Chicken,11221,58
+Chicken,11222,24
+Chicken,11223,34
+Chicken,11224,51
+Chicken,11225,65
+Chicken,11226,152
+Chicken,11230,32
+Chicken,11231,64
+Chicken,11232,27
+Chicken,11233,103
+Chicken,11234,44
+Chicken,11235,21
+Chicken,11236,56
+Chicken,11237,49
+Chicken,11238,8
+Chicken,11239,13
+Delicatessen,10301,49
+Delicatessen,10302,21
+Delicatessen,10306,53
+Delicatessen,10308,20
+Delicatessen,10309,76
+Delicatessen,10310,13
+Delicatessen,10312,21
+Delicatessen,10314,43
+Delicatessen,11354,68
+Delicatessen,11355,10
+Delicatessen,11356,36
+Delicatessen,11357,53
+Delicatessen,11360,16
+Delicatessen,11361,9
+Delicatessen,11363,10
+Delicatessen,11364,11
+Delicatessen,11365,12
+Delicatessen,11367,21
+Delicatessen,11368,57
+Delicatessen,11369,4
+Delicatessen,11370,18
+Delicatessen,11371,11
+Delicatessen,11373,16
+Delicatessen,11374,33
+Delicatessen,11375,48
+Delicatessen,11377,56
+Delicatessen,11378,87
+Delicatessen,11385,15
+Delicatessen,11414,57
+Delicatessen,11415,29
+Delicatessen,11416,35
+Delicatessen,11417,46
+Delicatessen,11418,20
+Delicatessen,11423,43
+Delicatessen,11426,51
+Delicatessen,11430,32
+Delicatessen,11432,76
+Delicatessen,11434,35
+Delicatessen,11435,27
+Delicatessen,10451,33
+Delicatessen,10452,4
+Delicatessen,10453,27
+Delicatessen,10455,11
+Delicatessen,10458,39
+Delicatessen,10461,13
+Delicatessen,10462,15
+Delicatessen,10463,49
+Delicatessen,10464,22
+Delicatessen,10465,28
+Delicatessen,10467,21
+Delicatessen,10468,6
+Delicatessen,10469,52
+Delicatessen,10474,6
+Delicatessen,10475,38
+Delicatessen,10001,214
+Delicatessen,10002,6
+Delicatessen,10003,26
+Delicatessen,10004,17
+Delicatessen,10005,37
+Delicatessen,10007,89
+Delicatessen,10009,12
+Delicatessen,10010,121
+Delicatessen,10012,68
+Delicatessen,10013,87
+Delicatessen,10014,22
+Delicatessen,10016,143
+Delicatessen,10017,276
+Delicatessen,10018,215
+Delicatessen,10019,233
+Delicatessen,10020,25
+Delicatessen,10021,78
+Delicatessen,10022,307
+Delicatessen,10024,94
+Delicatessen,10025,91
+Delicatessen,10027,7
+Delicatessen,10028,25
+Delicatessen,10029,38
+Delicatessen,10032,44
+Delicatessen,10033,69
+Delicatessen,10035,24
+Delicatessen,10036,315
+Delicatessen,10038,64
+Delicatessen,10065,77
+Delicatessen,10075,28
+Delicatessen,11101,306
+Delicatessen,11102,32
+Delicatessen,11103,21
+Delicatessen,11105,35
+Delicatessen,11106,46
+Delicatessen,10112,5
+Delicatessen,10123,16
+Delicatessen,10128,30
+Delicatessen,11694,14
+Delicatessen,11201,35
+Delicatessen,11206,39
+Delicatessen,11207,24
+Delicatessen,11209,37
+Delicatessen,11210,10
+Delicatessen,11211,17
+Delicatessen,11214,18
+Delicatessen,11215,38
+Delicatessen,11217,23
+Delicatessen,11218,2
+Delicatessen,11219,27
+Delicatessen,11220,133
+Delicatessen,11221,2
+Delicatessen,11222,79
+Delicatessen,11223,6
+Delicatessen,11228,20
+Delicatessen,11230,78
+Delicatessen,11231,29
+Delicatessen,11232,86
+Delicatessen,11234,9
+Delicatessen,11235,12
+Delicatessen,11236,108
+Delicatessen,11242,14
+Delicatessen,11249,6
+Asian,10282,28
+Asian,10301,6
+Asian,10302,47
+Asian,10304,6
+Asian,10306,16
+Asian,10308,5
+Asian,10309,2
+Asian,10312,17
+Asian,10314,79
+Asian,11354,367
+Asian,11355,126
+Asian,11356,42
+Asian,11357,18
+Asian,11358,53
+Asian,11360,19
+Asian,11361,23
+Asian,11362,28
+Asian,11364,88
+Asian,11365,26
+Asian,11366,99
+Asian,11367,35
+Asian,11368,15
+Asian,11370,5
+Asian,11372,263
+Asian,11373,184
+Asian,11374,51
+Asian,11375,73
+Asian,11377,90
+Asian,11385,8
+Asian,11415,24
+Asian,11417,9
+Asian,11418,33
+Asian,11420,14
+Asian,11421,16
+Asian,11430,20
+Asian,11040,6
+Asian,10462,17
+Asian,10463,13
+Asian,10465,2
+Asian,10468,20
+Asian,10001,237
+Asian,10002,201
+Asian,10003,333
+Asian,10004,45
+Asian,10006,39
+Asian,10007,13
+Asian,10009,160
+Asian,10010,37
+Asian,10011,73
+Asian,10012,43
+Asian,10013,122
+Asian,10014,116
+Asian,10016,145
+Asian,10017,67
+Asian,10018,44
+Asian,10019,90
+Asian,10021,15
+Asian,10022,192
+Asian,10023,34
+Asian,10024,53
+Asian,10025,106
+Asian,10027,61
+Asian,10028,22
+Asian,10029,21
+Asian,10031,67
+Asian,10036,144
+Asian,10038,32
+Asian,10065,76
+Asian,10075,27
+Asian,11101,48
+Asian,11102,18
+Asian,11103,28
+Asian,11104,53
+Asian,11105,22
+Asian,10128,39
+Asian,11693,15
+Asian,10169,3
+Asian,11201,161
+Asian,11203,5
+Asian,11204,9
+Asian,11205,6
+Asian,11206,22
+Asian,11209,42
+Asian,11211,35
+Asian,11213,6
+Asian,11214,130
+Asian,11215,82
+Asian,11217,39
+Asian,11218,41
+Asian,11219,37
+Asian,11220,131
+Asian,11221,22
+Asian,11222,31
+Asian,11223,17
+Asian,11226,27
+Asian,11229,26
+Asian,11232,15
+Asian,11233,9
+Asian,11234,34
+Asian,11235,16
+Asian,11238,53
+Asian,11249,39
+Indian,10301,46
+Indian,10303,19
+Indian,10304,11
+Indian,10305,2
+Indian,10306,22
+Indian,11355,38
+Indian,11358,19
+Indian,11361,47
+Indian,11368,22
+Indian,11370,7
+Indian,11372,281
+Indian,11374,41
+Indian,11375,71
+Indian,11377,51
+Indian,11378,6
+Indian,11379,10
+Indian,11385,40
+Indian,11415,31
+Indian,11418,103
+Indian,11419,236
+Indian,11420,96
+Indian,11426,98
+Indian,11427,22
+Indian,11428,5
+Indian,11430,10
+Indian,11432,121
+Indian,11434,26
+Indian,11435,37
+Indian,11436,2
+Indian,11040,47
+Indian,10456,30
+Indian,10462,32
+Indian,10463,24
+Indian,10467,64
+Indian,10470,4
+Indian,11004,137
+Indian,10001,43
+Indian,10002,35
+Indian,10003,206
+Indian,10004,18
+Indian,10005,4
+Indian,10006,39
+Indian,10007,63
+Indian,10009,13
+Indian,10010,103
+Indian,10011,11
+Indian,10012,78
+Indian,10013,88
+Indian,10014,12
+Indian,10016,385
+Indian,10017,136
+Indian,10018,192
+Indian,10019,179
+Indian,10021,52
+Indian,10022,108
+Indian,10023,39
+Indian,10024,95
+Indian,10025,174
+Indian,10026,56
+Indian,10027,50
+Indian,10028,72
+Indian,10029,60
+Indian,10031,22
+Indian,10035,14
+Indian,10036,71
+Indian,10038,33
+Indian,10039,44
+Indian,10040,28
+Indian,10065,73
+Indian,11101,52
+Indian,11102,26
+Indian,11103,64
+Indian,11104,9
+Indian,11105,6
+Indian,11106,12
+Indian,10128,33
+Indian,11201,74
+Indian,11205,47
+Indian,11206,27
+Indian,11207,25
+Indian,11208,45
+Indian,11209,32
+Indian,11210,20
+Indian,11211,73
+Indian,11213,12
+Indian,11215,118
+Indian,11216,52
+Indian,11217,88
+Indian,11218,71
+Indian,11219,9
+Indian,11220,22
+Indian,11221,74
+Indian,11222,24
+Indian,11225,35
+Indian,11226,51
+Indian,11230,35
+Indian,11233,31
+Indian,11234,17
+Indian,11235,9
+Indian,11237,73
+Indian,11238,77
+Donuts,10301,43
+Donuts,10302,24
+Donuts,10303,24
+Donuts,10304,15
+Donuts,10305,36
+Donuts,10306,29
+Donuts,10308,47
+Donuts,10309,22
+Donuts,10310,26
+Donuts,10312,52
+Donuts,10314,73
+Donuts,11354,55
+Donuts,11355,32
+Donuts,11356,28
+Donuts,11357,30
+Donuts,11358,25
+Donuts,11360,11
+Donuts,11361,18
+Donuts,11362,12
+Donuts,11364,51
+Donuts,11365,15
+Donuts,11366,56
+Donuts,11367,38
+Donuts,11368,29
+Donuts,11369,36
+Donuts,11370,11
+Donuts,11371,13
+Donuts,11372,55
+Donuts,11373,49
+Donuts,11374,33
+Donuts,11375,47
+Donuts,11377,30
+Donuts,11378,28
+Donuts,11379,22
+Donuts,11385,72
+Donuts,11411,1
+Donuts,11412,5
+Donuts,11414,60
+Donuts,11415,37
+Donuts,11416,11
+Donuts,11417,46
+Donuts,11418,26
+Donuts,11419,41
+Donuts,11420,33
+Donuts,11421,28
+Donuts,11422,16
+Donuts,11423,43
+Donuts,11426,10
+Donuts,11427,24
+Donuts,11428,41
+Donuts,11429,13
+Donuts,11430,88
+Donuts,11432,95
+Donuts,11434,11
+Donuts,11435,35
+Donuts,11436,29
+Donuts,10451,60
+Donuts,10452,13
+Donuts,10453,21
+Donuts,10454,17
+Donuts,10455,28
+Donuts,10456,21
+Donuts,10457,31
+Donuts,10458,41
+Donuts,10459,31
+Donuts,10460,45
+Donuts,10461,87
+Donuts,10462,24
+Donuts,10463,25
+Donuts,10464,9
+Donuts,10465,34
+Donuts,10466,24
+Donuts,10467,85
+Donuts,10468,86
+Donuts,10469,48
+Donuts,10470,25
+Donuts,10471,11
+Donuts,10472,35
+Donuts,10473,6
+Donuts,10474,10
+Donuts,10475,28
+Donuts,11004,22
+Donuts,10001,139
+Donuts,10002,21
+Donuts,10003,53
+Donuts,10004,5
+Donuts,10005,9
+Donuts,10006,4
+Donuts,10007,63
+Donuts,10009,61
+Donuts,10010,23
+Donuts,10011,100
+Donuts,10012,6
+Donuts,10013,3
+Donuts,10014,45
+Donuts,10016,123
+Donuts,10017,35
+Donuts,10018,79
+Donuts,10019,77
+Donuts,10021,16
+Donuts,10022,60
+Donuts,10023,14
+Donuts,10024,12
+Donuts,10025,32
+Donuts,10026,23
+Donuts,10027,24
+Donuts,10028,39
+Donuts,10029,23
+Donuts,10030,4
+Donuts,10031,14
+Donuts,10032,25
+Donuts,10033,54
+Donuts,10034,26
+Donuts,10035,27
+Donuts,10036,72
+Donuts,10037,11
+Donuts,10038,21
+Donuts,10039,8
+Donuts,10040,21
+Donuts,10065,38
+Donuts,10075,18
+Donuts,11101,68
+Donuts,11102,14
+Donuts,11103,42
+Donuts,11104,21
+Donuts,11105,33
+Donuts,11106,32
+Donuts,10112,11
+Donuts,10121,21
+Donuts,10128,41
+Donuts,11691,13
+Donuts,11692,30
+Donuts,11693,5
+Donuts,11694,67
+Donuts,10168,8
+Donuts,10169,6
+Donuts,11201,30
+Donuts,11203,29
+Donuts,11204,31
+Donuts,11205,5
+Donuts,11206,30
+Donuts,11207,55
+Donuts,11208,57
+Donuts,11209,50
+Donuts,11210,20
+Donuts,11211,41
+Donuts,11212,40
+Donuts,11213,14
+Donuts,11214,52
+Donuts,11215,30
+Donuts,11216,11
+Donuts,11217,20
+Donuts,11218,15
+Donuts,11219,10
+Donuts,11220,39
+Donuts,11221,12
+Donuts,11223,55
+Donuts,11224,26
+Donuts,11225,20
+Donuts,11226,69
+Donuts,11228,7
+Donuts,11229,55
+Donuts,11230,28
+Donuts,11231,19
+Donuts,11232,20
+Donuts,11233,3
+Donuts,11234,39
+Donuts,11235,46
+Donuts,11236,21
+Donuts,11237,54
+Donuts,11239,27
+Donuts,11249,3
+Jewish/Kosher,11371,5
+Jewish/Kosher,10128,40
+Jewish/Kosher,10001,20
+Jewish/Kosher,10003,53
+Jewish/Kosher,10004,31
+Jewish/Kosher,10006,16
+Jewish/Kosher,11415,20
+Jewish/Kosher,11418,8
+Jewish/Kosher,10012,22
+Jewish/Kosher,10023,47
+Jewish/Kosher,10016,127
+Jewish/Kosher,10017,42
+Jewish/Kosher,10018,145
+Jewish/Kosher,10019,97
+Jewish/Kosher,10020,11
+Jewish/Kosher,10021,6
+Jewish/Kosher,10022,78
+Jewish/Kosher,11249,35
+Jewish/Kosher,10024,97
+Jewish/Kosher,10025,44
+Jewish/Kosher,11691,37
+Jewish/Kosher,10028,99
+Jewish/Kosher,10029,19
+Jewish/Kosher,10033,48
+Jewish/Kosher,10036,102
+Jewish/Kosher,10038,22
+Jewish/Kosher,10314,55
+Jewish/Kosher,11204,264
+Jewish/Kosher,11205,100
+Jewish/Kosher,11206,45
+Jewish/Kosher,11210,114
+Jewish/Kosher,11211,249
+Jewish/Kosher,11213,191
+Jewish/Kosher,11215,11
+Jewish/Kosher,10065,26
+Jewish/Kosher,11218,320
+Jewish/Kosher,11219,291
+Jewish/Kosher,11223,496
+Jewish/Kosher,11225,101
+Jewish/Kosher,10075,21
+Jewish/Kosher,11229,122
+Jewish/Kosher,11230,618
+Jewish/Kosher,10463,90
+Jewish/Kosher,11360,13
+Jewish/Kosher,11233,8
+Jewish/Kosher,11234,42
+Jewish/Kosher,11235,1
+Jewish/Kosher,11236,31
+Jewish/Kosher,11430,7
+Jewish/Kosher,11366,139
+Jewish/Kosher,10471,99
+Jewish/Kosher,11367,250
+Jewish/Kosher,11374,156
+Jewish/Kosher,11375,241
+Jewish/Kosher,11377,13
+Jewish/Kosher,11217,3
+Jewish/Kosher,11435,22
+Jewish/Kosher,11364,5
+Jewish/Kosher,10280,5
+Hamburgers,10281,25
+Hamburgers,10302,20
+Hamburgers,10303,59
+Hamburgers,10304,19
+Hamburgers,10305,13
+Hamburgers,10306,30
+Hamburgers,10307,8
+Hamburgers,10309,26
+Hamburgers,10310,8
+Hamburgers,10312,12
+Hamburgers,10314,53
+Hamburgers,11354,81
+Hamburgers,11356,28
+Hamburgers,11357,14
+Hamburgers,11360,12
+Hamburgers,11361,55
+Hamburgers,11362,54
+Hamburgers,11365,15
+Hamburgers,11366,15
+Hamburgers,11367,16
+Hamburgers,11368,44
+Hamburgers,11369,18
+Hamburgers,11371,18
+Hamburgers,11372,44
+Hamburgers,11373,31
+Hamburgers,11374,7
+Hamburgers,11375,49
+Hamburgers,11377,38
+Hamburgers,11379,14
+Hamburgers,11385,93
+Hamburgers,11411,4
+Hamburgers,11413,17
+Hamburgers,11414,10
+Hamburgers,11415,32
+Hamburgers,11416,41
+Hamburgers,11417,9
+Hamburgers,11418,9
+Hamburgers,11419,62
+Hamburgers,11423,8
+Hamburgers,11427,52
+Hamburgers,11429,8
+Hamburgers,11430,65
+Hamburgers,11432,40
+Hamburgers,11434,17
+Hamburgers,11435,11
+Hamburgers,10451,63
+Hamburgers,10452,77
+Hamburgers,10453,38
+Hamburgers,10454,9
+Hamburgers,10455,39
+Hamburgers,10456,5
+Hamburgers,10457,71
+Hamburgers,10458,35
+Hamburgers,10459,17
+Hamburgers,10460,27
+Hamburgers,10461,59
+Hamburgers,10462,30
+Hamburgers,10463,11
+Hamburgers,10465,18
+Hamburgers,10466,42
+Hamburgers,10467,58
+Hamburgers,10468,38
+Hamburgers,10469,35
+Hamburgers,10471,28
+Hamburgers,10472,45
+Hamburgers,10473,27
+Hamburgers,10474,20
+Hamburgers,10475,19
+Hamburgers,11004,25
+Hamburgers,10001,59
+Hamburgers,10002,59
+Hamburgers,10003,140
+Hamburgers,10004,36
+Hamburgers,10006,9
+Hamburgers,10009,46
+Hamburgers,10010,55
+Hamburgers,10011,74
+Hamburgers,10012,10
+Hamburgers,10013,30
+Hamburgers,10014,32
+Hamburgers,10016,63
+Hamburgers,10017,22
+Hamburgers,10018,65
+Hamburgers,10019,108
+Hamburgers,10021,41
+Hamburgers,10022,20
+Hamburgers,10023,14
+Hamburgers,10024,59
+Hamburgers,10025,110
+Hamburgers,10026,9
+Hamburgers,10027,105
+Hamburgers,10028,8
+Hamburgers,10029,89
+Hamburgers,10030,37
+Hamburgers,10031,43
+Hamburgers,10032,24
+Hamburgers,10033,47
+Hamburgers,10034,28
+Hamburgers,10035,42
+Hamburgers,10036,137
+Hamburgers,10038,14
+Hamburgers,10039,27
+Hamburgers,10065,10
+Hamburgers,11101,42
+Hamburgers,11102,24
+Hamburgers,11103,31
+Hamburgers,11104,28
+Hamburgers,11105,30
+Hamburgers,11106,44
+Hamburgers,10121,4
+Hamburgers,10128,14
+Hamburgers,11691,18
+Hamburgers,10169,2
+Hamburgers,11201,98
+Hamburgers,11203,133
+Hamburgers,11204,14
+Hamburgers,11206,23
+Hamburgers,11207,38
+Hamburgers,11208,49
+Hamburgers,11209,41
+Hamburgers,11210,11
+Hamburgers,11211,25
+Hamburgers,11212,47
+Hamburgers,11213,36
+Hamburgers,11214,27
+Hamburgers,11215,36
+Hamburgers,11216,14
+Hamburgers,11217,66
+Hamburgers,11218,17
+Hamburgers,11219,20
+Hamburgers,11220,14
+Hamburgers,11221,4
+Hamburgers,11222,27
+Hamburgers,11224,34
+Hamburgers,11225,61
+Hamburgers,11226,17
+Hamburgers,11232,7
+Hamburgers,11233,16
+Hamburgers,11234,21
+Hamburgers,11235,15
+Hamburgers,11236,62
+Hamburgers,11237,28
+Hamburgers,11238,12
+Thai,11103,48
+Thai,10461,30
+Thai,11692,20
+Thai,11693,16
+Thai,10128,75
+Thai,10001,38
+Thai,10002,74
+Thai,10003,332
+Thai,10004,30
+Thai,11415,3
+Thai,11206,26
+Thai,10009,43
+Thai,10010,38
+Thai,10011,143
+Thai,10012,50
+Thai,10013,58
+Thai,10014,57
+Thai,10023,2
+Thai,10016,142
+Thai,10017,121
+Thai,10018,37
+Thai,10019,297
+Thai,10021,27
+Thai,10022,99
+Thai,11377,91
+Thai,10024,87
+Thai,10025,94
+Thai,10026,9
+Thai,10028,58
+Thai,10029,98
+Thai,11101,59
+Thai,10032,28
+Thai,10033,7
+Thai,10034,33
+Thai,10035,44
+Thai,10036,223
+Thai,10462,2
+Thai,10038,86
+Thai,10169,13
+Thai,11231,37
+Thai,10301,9
+Thai,11201,197
+Thai,11216,4
+Thai,11205,86
+Thai,10310,30
+Thai,11105,40
+Thai,11209,61
+Thai,10314,19
+Thai,11211,74
+Thai,11215,108
+Thai,11421,24
+Thai,10065,98
+Thai,11218,69
+Thai,11220,38
+Thai,11222,78
+Thai,11354,7
+Thai,10075,28
+Thai,11229,31
+Thai,11358,12
+Thai,10463,19
+Thai,11104,15
+Thai,11361,39
+Thai,11106,109
+Thai,11366,28
+Thai,11238,67
+Thai,11217,133
+Thai,11368,10
+Thai,10475,22
+Thai,11372,133
+Thai,11373,207
+Thai,11374,28
+Thai,11375,134
+Thai,11226,27
+Thai,11249,84
+Thai,11385,22
+Thai,11237,2
+Thai,11355,1
+Thai,11432,13
+Korean,10128,15
+Korean,10001,892
+Korean,10002,7
+Korean,10003,121
+Korean,10007,8
+Korean,10010,28
+Korean,10011,21
+Korean,10012,11
+Korean,10013,90
+Korean,10014,44
+Korean,10016,223
+Korean,10018,25
+Korean,10019,50
+Korean,11232,2
+Korean,10022,24
+Korean,10025,43
+Korean,10028,10
+Korean,10032,10
+Korean,10036,51
+Korean,10169,3
+Korean,11201,53
+Korean,11205,32
+Korean,11105,2
+Korean,11209,16
+Korean,11211,57
+Korean,11106,14
+Korean,11215,12
+Korean,11217,23
+Korean,11220,6
+Korean,11222,27
+Korean,10458,7
+Korean,11354,1133
+Korean,11355,360
+Korean,11356,20
+Korean,11101,26
+Korean,11358,800
+Korean,11430,5
+Korean,11104,42
+Korean,11361,187
+Korean,11362,124
+Korean,11235,15
+Korean,11364,76
+Korean,11238,35
+Korean,11366,5
+Korean,10065,19
+Korean,11372,30
+Korean,11373,37
+Korean,11377,13
+Korean,11385,2
+French,11430,30
+French,11366,13
+French,11377,4
+French,10128,96
+French,10001,112
+French,10002,191
+French,10003,182
+French,10004,11
+French,10005,19
+French,10007,39
+French,10009,128
+French,10010,102
+French,10011,296
+French,10012,348
+French,10013,196
+French,10014,258
+French,10016,143
+French,10017,60
+French,10018,48
+French,10019,278
+French,10020,8
+French,10021,160
+French,10022,239
+French,10023,86
+French,10024,51
+French,10025,68
+French,10026,52
+French,10027,79
+French,10028,66
+French,10029,9
+French,10030,15
+French,11229,11
+French,10033,7
+French,10282,4
+French,10036,145
+French,10037,5
+French,10038,20
+French,11105,9
+French,11201,129
+French,11205,8
+French,11206,21
+French,11361,45
+French,11211,125
+French,11362,15
+French,11215,51
+French,11216,12
+French,10065,170
+French,11218,22
+French,11221,12
+French,11222,108
+French,11694,15
+French,10075,17
+French,11101,71
+French,11231,68
+French,10464,20
+French,11233,33
+French,11106,22
+French,11235,35
+French,11237,48
+French,11238,42
+French,11217,24
+French,11370,12
+French,11375,18
+French,11249,27
+French,10281,9
+French,10154,9
+French,10111,14
+Sandwiches,10281,8
+Sandwiches,10301,11
+Sandwiches,10302,7
+Sandwiches,10303,11
+Sandwiches,10304,39
+Sandwiches,10305,33
+Sandwiches,10306,5
+Sandwiches,10307,6
+Sandwiches,10308,6
+Sandwiches,10310,17
+Sandwiches,10312,10
+Sandwiches,10314,57
+Sandwiches,11354,33
+Sandwiches,11355,42
+Sandwiches,11356,20
+Sandwiches,11357,23
+Sandwiches,11358,18
+Sandwiches,11361,16
+Sandwiches,11366,8
+Sandwiches,11367,49
+Sandwiches,11368,31
+Sandwiches,11369,25
+Sandwiches,11370,12
+Sandwiches,11371,9
+Sandwiches,11372,19
+Sandwiches,11373,38
+Sandwiches,11374,5
+Sandwiches,11375,42
+Sandwiches,11377,9
+Sandwiches,11378,9
+Sandwiches,11379,33
+Sandwiches,11385,60
+Sandwiches,11416,14
+Sandwiches,11417,14
+Sandwiches,11418,16
+Sandwiches,11420,13
+Sandwiches,11421,20
+Sandwiches,11426,15
+Sandwiches,11427,11
+Sandwiches,11428,43
+Sandwiches,11430,70
+Sandwiches,11432,21
+Sandwiches,11433,18
+Sandwiches,11434,25
+Sandwiches,11435,67
+Sandwiches,10451,38
+Sandwiches,10452,17
+Sandwiches,10455,36
+Sandwiches,10457,9
+Sandwiches,10458,55
+Sandwiches,10459,56
+Sandwiches,10460,28
+Sandwiches,10461,17
+Sandwiches,10462,22
+Sandwiches,10463,3
+Sandwiches,10464,15
+Sandwiches,10465,4
+Sandwiches,10466,5
+Sandwiches,10467,49
+Sandwiches,10468,13
+Sandwiches,10469,5
+Sandwiches,10471,10
+Sandwiches,10473,5
+Sandwiches,10475,27
+Sandwiches,11004,3
+Sandwiches,10001,142
+Sandwiches,10002,125
+Sandwiches,10003,106
+Sandwiches,10004,54
+Sandwiches,10006,53
+Sandwiches,10007,50
+Sandwiches,10009,74
+Sandwiches,10010,70
+Sandwiches,10011,95
+Sandwiches,10012,6
+Sandwiches,10013,64
+Sandwiches,10014,51
+Sandwiches,10016,38
+Sandwiches,10017,90
+Sandwiches,10018,89
+Sandwiches,10019,109
+Sandwiches,10020,8
+Sandwiches,10021,13
+Sandwiches,10022,116
+Sandwiches,10023,54
+Sandwiches,10024,16
+Sandwiches,10025,39
+Sandwiches,10026,7
+Sandwiches,10027,26
+Sandwiches,10028,71
+Sandwiches,10029,63
+Sandwiches,10030,4
+Sandwiches,10031,32
+Sandwiches,10033,16
+Sandwiches,10034,4
+Sandwiches,10035,72
+Sandwiches,10036,73
+Sandwiches,10037,14
+Sandwiches,10038,84
+Sandwiches,10039,7
+Sandwiches,10040,5
+Sandwiches,10044,19
+Sandwiches,10065,32
+Sandwiches,10075,20
+Sandwiches,11101,62
+Sandwiches,11102,32
+Sandwiches,11103,12
+Sandwiches,11104,36
+Sandwiches,11105,8
+Sandwiches,11106,19
+Sandwiches,10103,8
+Sandwiches,10112,5
+Sandwiches,10119,33
+Sandwiches,10121,14
+Sandwiches,10128,19
+Sandwiches,11691,3
+Sandwiches,10168,6
+Sandwiches,10169,5
+Sandwiches,11201,113
+Sandwiches,11203,25
+Sandwiches,11204,13
+Sandwiches,11205,22
+Sandwiches,11206,20
+Sandwiches,11207,38
+Sandwiches,11208,32
+Sandwiches,11209,49
+Sandwiches,11210,4
+Sandwiches,11211,51
+Sandwiches,11212,30
+Sandwiches,11213,11
+Sandwiches,11214,29
+Sandwiches,11216,7
+Sandwiches,11217,23
+Sandwiches,11218,51
+Sandwiches,11220,12
+Sandwiches,11222,8
+Sandwiches,11223,28
+Sandwiches,11224,2
+Sandwiches,11226,36
+Sandwiches,11229,18
+Sandwiches,11230,15
+Sandwiches,11232,5
+Sandwiches,11234,22
+Sandwiches,11235,26
+Sandwiches,11236,15
+Sandwiches,11237,18
+Sandwiches,11238,12
+Mediterranean,10112,2
+Mediterranean,10461,14
+Mediterranean,11201,30
+Mediterranean,11415,2
+Mediterranean,11693,16
+Mediterranean,10128,31
+Mediterranean,10001,54
+Mediterranean,10002,87
+Mediterranean,10003,173
+Mediterranean,10004,10
+Mediterranean,10005,8
+Mediterranean,10007,14
+Mediterranean,11206,16
+Mediterranean,10009,81
+Mediterranean,10010,71
+Mediterranean,10011,49
+Mediterranean,10012,170
+Mediterranean,10013,37
+Mediterranean,10014,111
+Mediterranean,10016,109
+Mediterranean,10017,92
+Mediterranean,10018,21
+Mediterranean,10019,115
+Mediterranean,10021,35
+Mediterranean,10022,93
+Mediterranean,10023,39
+Mediterranean,10024,85
+Mediterranean,10025,60
+Mediterranean,10026,33
+Mediterranean,10027,19
+Mediterranean,10028,49
+Mediterranean,10029,33
+Mediterranean,11694,13
+Mediterranean,11101,29
+Mediterranean,10033,4
+Mediterranean,11422,8
+Mediterranean,10036,101
+Mediterranean,11102,18
+Mediterranean,10038,16
+Mediterranean,11249,13
+Mediterranean,11231,13
+Mediterranean,10301,12
+Mediterranean,10302,18
+Mediterranean,10304,11
+Mediterranean,10305,52
+Mediterranean,11204,58
+Mediterranean,11205,23
+Mediterranean,10310,17
+Mediterranean,11209,145
+Mediterranean,10314,2
+Mediterranean,11211,30
+Mediterranean,11106,48
+Mediterranean,11214,29
+Mediterranean,11215,53
+Mediterranean,10065,67
+Mediterranean,11220,29
+Mediterranean,11221,10
+Mediterranean,11222,47
+Mediterranean,11223,46
+Mediterranean,11225,15
+Mediterranean,10458,43
+Mediterranean,10075,43
+Mediterranean,11229,18
+Mediterranean,10462,14
+Mediterranean,11103,180
+Mediterranean,11360,4
+Mediterranean,11105,4
+Mediterranean,11217,89
+Mediterranean,11235,139
+Mediterranean,11366,18
+Mediterranean,11238,32
+Mediterranean,11367,21
+Mediterranean,11230,5
+Mediterranean,10475,3
+Mediterranean,11358,26
+Mediterranean,11374,9
+Mediterranean,11375,90
+Mediterranean,10280,17
+Mediterranean,11385,24
+Mediterranean,11004,11
+Mediterranean,11434,1
+Mediterranean,10111,13
+"Juice, Smoothies, Fruit Salads",10301,8
+"Juice, Smoothies, Fruit Salads",10306,1
+"Juice, Smoothies, Fruit Salads",10309,6
+"Juice, Smoothies, Fruit Salads",10310,2
+"Juice, Smoothies, Fruit Salads",11354,70
+"Juice, Smoothies, Fruit Salads",11355,42
+"Juice, Smoothies, Fruit Salads",11357,10
+"Juice, Smoothies, Fruit Salads",11358,8
+"Juice, Smoothies, Fruit Salads",11361,8
+"Juice, Smoothies, Fruit Salads",11368,64
+"Juice, Smoothies, Fruit Salads",11372,30
+"Juice, Smoothies, Fruit Salads",11373,57
+"Juice, Smoothies, Fruit Salads",11374,16
+"Juice, Smoothies, Fruit Salads",11377,11
+"Juice, Smoothies, Fruit Salads",11385,68
+"Juice, Smoothies, Fruit Salads",11411,9
+"Juice, Smoothies, Fruit Salads",11412,8
+"Juice, Smoothies, Fruit Salads",11414,15
+"Juice, Smoothies, Fruit Salads",11415,12
+"Juice, Smoothies, Fruit Salads",11418,12
+"Juice, Smoothies, Fruit Salads",11421,5
+"Juice, Smoothies, Fruit Salads",11429,11
+"Juice, Smoothies, Fruit Salads",11430,22
+"Juice, Smoothies, Fruit Salads",11432,15
+"Juice, Smoothies, Fruit Salads",11433,8
+"Juice, Smoothies, Fruit Salads",10451,6
+"Juice, Smoothies, Fruit Salads",10452,64
+"Juice, Smoothies, Fruit Salads",10453,16
+"Juice, Smoothies, Fruit Salads",10455,57
+"Juice, Smoothies, Fruit Salads",10456,28
+"Juice, Smoothies, Fruit Salads",10457,1
+"Juice, Smoothies, Fruit Salads",10459,7
+"Juice, Smoothies, Fruit Salads",10460,4
+"Juice, Smoothies, Fruit Salads",10461,64
+"Juice, Smoothies, Fruit Salads",10462,53
+"Juice, Smoothies, Fruit Salads",10463,8
+"Juice, Smoothies, Fruit Salads",10465,11
+"Juice, Smoothies, Fruit Salads",10466,31
+"Juice, Smoothies, Fruit Salads",10467,35
+"Juice, Smoothies, Fruit Salads",10468,2
+"Juice, Smoothies, Fruit Salads",10472,37
+"Juice, Smoothies, Fruit Salads",10475,2
+"Juice, Smoothies, Fruit Salads",10001,69
+"Juice, Smoothies, Fruit Salads",10002,32
+"Juice, Smoothies, Fruit Salads",10003,158
+"Juice, Smoothies, Fruit Salads",10004,23
+"Juice, Smoothies, Fruit Salads",10005,11
+"Juice, Smoothies, Fruit Salads",10007,18
+"Juice, Smoothies, Fruit Salads",10009,43
+"Juice, Smoothies, Fruit Salads",10010,32
+"Juice, Smoothies, Fruit Salads",10011,67
+"Juice, Smoothies, Fruit Salads",10012,104
+"Juice, Smoothies, Fruit Salads",10013,58
+"Juice, Smoothies, Fruit Salads",10014,19
+"Juice, Smoothies, Fruit Salads",10016,37
+"Juice, Smoothies, Fruit Salads",10017,82
+"Juice, Smoothies, Fruit Salads",10018,78
+"Juice, Smoothies, Fruit Salads",10019,71
+"Juice, Smoothies, Fruit Salads",10021,25
+"Juice, Smoothies, Fruit Salads",10022,89
+"Juice, Smoothies, Fruit Salads",10023,26
+"Juice, Smoothies, Fruit Salads",10024,16
+"Juice, Smoothies, Fruit Salads",10025,17
+"Juice, Smoothies, Fruit Salads",10026,1
+"Juice, Smoothies, Fruit Salads",10027,17
+"Juice, Smoothies, Fruit Salads",10028,6
+"Juice, Smoothies, Fruit Salads",10029,52
+"Juice, Smoothies, Fruit Salads",10030,24
+"Juice, Smoothies, Fruit Salads",10031,41
+"Juice, Smoothies, Fruit Salads",10033,53
+"Juice, Smoothies, Fruit Salads",10034,41
+"Juice, Smoothies, Fruit Salads",10035,6
+"Juice, Smoothies, Fruit Salads",10036,50
+"Juice, Smoothies, Fruit Salads",10038,51
+"Juice, Smoothies, Fruit Salads",10039,20
+"Juice, Smoothies, Fruit Salads",10040,14
+"Juice, Smoothies, Fruit Salads",10065,29
+"Juice, Smoothies, Fruit Salads",10075,6
+"Juice, Smoothies, Fruit Salads",11101,15
+"Juice, Smoothies, Fruit Salads",11102,22
+"Juice, Smoothies, Fruit Salads",11103,48
+"Juice, Smoothies, Fruit Salads",11104,14
+"Juice, Smoothies, Fruit Salads",11106,6
+"Juice, Smoothies, Fruit Salads",10110,7
+"Juice, Smoothies, Fruit Salads",10112,1
+"Juice, Smoothies, Fruit Salads",10119,5
+"Juice, Smoothies, Fruit Salads",10128,16
+"Juice, Smoothies, Fruit Salads",11692,6
+"Juice, Smoothies, Fruit Salads",10166,1
+"Juice, Smoothies, Fruit Salads",10169,3
+"Juice, Smoothies, Fruit Salads",10170,12
+"Juice, Smoothies, Fruit Salads",10172,5
+"Juice, Smoothies, Fruit Salads",11201,79
+"Juice, Smoothies, Fruit Salads",11203,27
+"Juice, Smoothies, Fruit Salads",11204,10
+"Juice, Smoothies, Fruit Salads",11205,1
+"Juice, Smoothies, Fruit Salads",11206,24
+"Juice, Smoothies, Fruit Salads",11207,8
+"Juice, Smoothies, Fruit Salads",11209,19
+"Juice, Smoothies, Fruit Salads",11210,47
+"Juice, Smoothies, Fruit Salads",11211,38
+"Juice, Smoothies, Fruit Salads",11212,10
+"Juice, Smoothies, Fruit Salads",11213,5
+"Juice, Smoothies, Fruit Salads",11214,12
+"Juice, Smoothies, Fruit Salads",11215,52
+"Juice, Smoothies, Fruit Salads",11216,50
+"Juice, Smoothies, Fruit Salads",11217,6
+"Juice, Smoothies, Fruit Salads",11219,11
+"Juice, Smoothies, Fruit Salads",11220,98
+"Juice, Smoothies, Fruit Salads",11222,17
+"Juice, Smoothies, Fruit Salads",11223,26
+"Juice, Smoothies, Fruit Salads",11224,3
+"Juice, Smoothies, Fruit Salads",11225,18
+"Juice, Smoothies, Fruit Salads",11226,42
+"Juice, Smoothies, Fruit Salads",11229,5
+"Juice, Smoothies, Fruit Salads",11230,5
+"Juice, Smoothies, Fruit Salads",11233,13
+"Juice, Smoothies, Fruit Salads",11234,1
+"Juice, Smoothies, Fruit Salads",11235,22
+"Juice, Smoothies, Fruit Salads",11237,50
+"Juice, Smoothies, Fruit Salads",11238,20
+"Juice, Smoothies, Fruit Salads",11249,33
+Irish,10128,18
+Irish,10001,264
+Irish,10002,14
+Irish,10003,114
+Irish,10004,34
+Irish,10005,61
+Irish,10006,12
+Irish,10007,26
+Irish,11416,10
+Irish,10009,86
+Irish,10010,42
+Irish,10011,38
+Irish,10012,47
+Irish,10014,48
+Irish,10309,2
+Irish,10016,155
+Irish,10017,165
+Irish,10018,153
+Irish,10019,174
+Irish,10021,39
+Irish,10022,131
+Irish,10023,33
+Irish,10024,42
+Irish,10465,9
+Irish,10028,76
+Irish,11693,10
+Irish,11229,8
+Irish,10033,17
+Irish,10034,24
+Irish,10036,158
+Irish,11358,6
+Irish,10038,87
+Irish,10302,26
+Irish,10464,11
+Irish,11205,11
+Irish,11101,27
+Irish,11105,37
+Irish,11209,7
+Irish,11211,25
+Irish,11215,25
+Irish,11220,30
+Irish,11222,15
+Irish,10468,16
+Irish,11355,6
+Irish,10461,42
+Irish,11102,13
+Irish,11103,36
+Irish,11104,60
+Irish,11361,26
+Irish,11106,41
+Irish,11364,13
+Irish,10470,85
+Irish,11372,18
+Irish,11373,25
+Irish,11374,14
+Irish,11375,106
+Irish,11377,159
+Irish,11378,29
+Irish,11379,10
+Irish,11385,29
+"Ice Cream, Gelato, Yogurt, Ices",10301,13
+"Ice Cream, Gelato, Yogurt, Ices",10303,16
+"Ice Cream, Gelato, Yogurt, Ices",10304,2
+"Ice Cream, Gelato, Yogurt, Ices",10305,24
+"Ice Cream, Gelato, Yogurt, Ices",10306,40
+"Ice Cream, Gelato, Yogurt, Ices",10308,35
+"Ice Cream, Gelato, Yogurt, Ices",10309,29
+"Ice Cream, Gelato, Yogurt, Ices",10310,18
+"Ice Cream, Gelato, Yogurt, Ices",10312,23
+"Ice Cream, Gelato, Yogurt, Ices",10314,72
+"Ice Cream, Gelato, Yogurt, Ices",11354,61
+"Ice Cream, Gelato, Yogurt, Ices",11357,14
+"Ice Cream, Gelato, Yogurt, Ices",11358,18
+"Ice Cream, Gelato, Yogurt, Ices",11360,5
+"Ice Cream, Gelato, Yogurt, Ices",11361,22
+"Ice Cream, Gelato, Yogurt, Ices",11362,5
+"Ice Cream, Gelato, Yogurt, Ices",11364,2
+"Ice Cream, Gelato, Yogurt, Ices",11365,42
+"Ice Cream, Gelato, Yogurt, Ices",11366,35
+"Ice Cream, Gelato, Yogurt, Ices",11367,10
+"Ice Cream, Gelato, Yogurt, Ices",11368,19
+"Ice Cream, Gelato, Yogurt, Ices",11370,11
+"Ice Cream, Gelato, Yogurt, Ices",11371,3
+"Ice Cream, Gelato, Yogurt, Ices",11372,48
+"Ice Cream, Gelato, Yogurt, Ices",11373,25
+"Ice Cream, Gelato, Yogurt, Ices",11374,4
+"Ice Cream, Gelato, Yogurt, Ices",11375,58
+"Ice Cream, Gelato, Yogurt, Ices",11377,18
+"Ice Cream, Gelato, Yogurt, Ices",11378,10
+"Ice Cream, Gelato, Yogurt, Ices",11379,18
+"Ice Cream, Gelato, Yogurt, Ices",11385,104
+"Ice Cream, Gelato, Yogurt, Ices",11414,31
+"Ice Cream, Gelato, Yogurt, Ices",11416,31
+"Ice Cream, Gelato, Yogurt, Ices",11417,12
+"Ice Cream, Gelato, Yogurt, Ices",11419,1
+"Ice Cream, Gelato, Yogurt, Ices",11420,7
+"Ice Cream, Gelato, Yogurt, Ices",10451,25
+"Ice Cream, Gelato, Yogurt, Ices",10453,5
+"Ice Cream, Gelato, Yogurt, Ices",10458,23
+"Ice Cream, Gelato, Yogurt, Ices",10460,19
+"Ice Cream, Gelato, Yogurt, Ices",10461,21
+"Ice Cream, Gelato, Yogurt, Ices",10462,30
+"Ice Cream, Gelato, Yogurt, Ices",10463,17
+"Ice Cream, Gelato, Yogurt, Ices",10464,7
+"Ice Cream, Gelato, Yogurt, Ices",10465,27
+"Ice Cream, Gelato, Yogurt, Ices",10466,6
+"Ice Cream, Gelato, Yogurt, Ices",10475,13
+"Ice Cream, Gelato, Yogurt, Ices",11004,32
+"Ice Cream, Gelato, Yogurt, Ices",10001,16
+"Ice Cream, Gelato, Yogurt, Ices",10002,66
+"Ice Cream, Gelato, Yogurt, Ices",10003,152
+"Ice Cream, Gelato, Yogurt, Ices",10004,38
+"Ice Cream, Gelato, Yogurt, Ices",10007,6
+"Ice Cream, Gelato, Yogurt, Ices",10009,11
+"Ice Cream, Gelato, Yogurt, Ices",10010,5
+"Ice Cream, Gelato, Yogurt, Ices",10011,72
+"Ice Cream, Gelato, Yogurt, Ices",10012,46
+"Ice Cream, Gelato, Yogurt, Ices",10013,41
+"Ice Cream, Gelato, Yogurt, Ices",10014,63
+"Ice Cream, Gelato, Yogurt, Ices",10016,11
+"Ice Cream, Gelato, Yogurt, Ices",10017,15
+"Ice Cream, Gelato, Yogurt, Ices",10019,37
+"Ice Cream, Gelato, Yogurt, Ices",10020,13
+"Ice Cream, Gelato, Yogurt, Ices",10021,44
+"Ice Cream, Gelato, Yogurt, Ices",10022,6
+"Ice Cream, Gelato, Yogurt, Ices",10023,17
+"Ice Cream, Gelato, Yogurt, Ices",10024,21
+"Ice Cream, Gelato, Yogurt, Ices",10025,77
+"Ice Cream, Gelato, Yogurt, Ices",10026,2
+"Ice Cream, Gelato, Yogurt, Ices",10027,23
+"Ice Cream, Gelato, Yogurt, Ices",10028,24
+"Ice Cream, Gelato, Yogurt, Ices",10033,5
+"Ice Cream, Gelato, Yogurt, Ices",10035,2
+"Ice Cream, Gelato, Yogurt, Ices",10036,51
+"Ice Cream, Gelato, Yogurt, Ices",10038,4
+"Ice Cream, Gelato, Yogurt, Ices",10065,45
+"Ice Cream, Gelato, Yogurt, Ices",10075,6
+"Ice Cream, Gelato, Yogurt, Ices",11101,15
+"Ice Cream, Gelato, Yogurt, Ices",11102,11
+"Ice Cream, Gelato, Yogurt, Ices",11103,18
+"Ice Cream, Gelato, Yogurt, Ices",11104,11
+"Ice Cream, Gelato, Yogurt, Ices",11105,26
+"Ice Cream, Gelato, Yogurt, Ices",10121,9
+"Ice Cream, Gelato, Yogurt, Ices",11693,19
+"Ice Cream, Gelato, Yogurt, Ices",11694,13
+"Ice Cream, Gelato, Yogurt, Ices",11201,66
+"Ice Cream, Gelato, Yogurt, Ices",11204,15
+"Ice Cream, Gelato, Yogurt, Ices",11206,2
+"Ice Cream, Gelato, Yogurt, Ices",11207,6
+"Ice Cream, Gelato, Yogurt, Ices",11209,57
+"Ice Cream, Gelato, Yogurt, Ices",11211,15
+"Ice Cream, Gelato, Yogurt, Ices",11213,21
+"Ice Cream, Gelato, Yogurt, Ices",11214,34
+"Ice Cream, Gelato, Yogurt, Ices",11215,87
+"Ice Cream, Gelato, Yogurt, Ices",11216,9
+"Ice Cream, Gelato, Yogurt, Ices",11217,44
+"Ice Cream, Gelato, Yogurt, Ices",11218,16
+"Ice Cream, Gelato, Yogurt, Ices",11220,80
+"Ice Cream, Gelato, Yogurt, Ices",11222,11
+"Ice Cream, Gelato, Yogurt, Ices",11224,33
+"Ice Cream, Gelato, Yogurt, Ices",11225,4
+"Ice Cream, Gelato, Yogurt, Ices",11226,9
+"Ice Cream, Gelato, Yogurt, Ices",11228,16
+"Ice Cream, Gelato, Yogurt, Ices",11229,18
+"Ice Cream, Gelato, Yogurt, Ices",11230,16
+"Ice Cream, Gelato, Yogurt, Ices",11231,11
+"Ice Cream, Gelato, Yogurt, Ices",11232,4
+"Ice Cream, Gelato, Yogurt, Ices",11234,81
+"Ice Cream, Gelato, Yogurt, Ices",11235,52
+"Ice Cream, Gelato, Yogurt, Ices",11237,6
+"Ice Cream, Gelato, Yogurt, Ices",11238,28
+"Ice Cream, Gelato, Yogurt, Ices",11249,16
+Bagels/Pretzels,10281,6
+Bagels/Pretzels,10301,9
+Bagels/Pretzels,10305,29
+Bagels/Pretzels,10306,41
+Bagels/Pretzels,10309,15
+Bagels/Pretzels,10312,29
+Bagels/Pretzels,10314,32
+Bagels/Pretzels,11354,17
+Bagels/Pretzels,11357,9
+Bagels/Pretzels,11358,18
+Bagels/Pretzels,11362,28
+Bagels/Pretzels,11364,35
+Bagels/Pretzels,11369,32
+Bagels/Pretzels,11371,22
+Bagels/Pretzels,11372,18
+Bagels/Pretzels,11373,5
+Bagels/Pretzels,11374,29
+Bagels/Pretzels,11375,76
+Bagels/Pretzels,11377,17
+Bagels/Pretzels,11379,26
+Bagels/Pretzels,11385,35
+Bagels/Pretzels,11414,30
+Bagels/Pretzels,11415,32
+Bagels/Pretzels,11421,31
+Bagels/Pretzels,11423,16
+Bagels/Pretzels,11430,7
+Bagels/Pretzels,11432,4
+Bagels/Pretzels,10451,13
+Bagels/Pretzels,10454,3
+Bagels/Pretzels,10463,18
+Bagels/Pretzels,10475,15
+Bagels/Pretzels,11004,5
+Bagels/Pretzels,10001,69
+Bagels/Pretzels,10002,11
+Bagels/Pretzels,10003,38
+Bagels/Pretzels,10004,90
+Bagels/Pretzels,10007,7
+Bagels/Pretzels,10009,26
+Bagels/Pretzels,10010,86
+Bagels/Pretzels,10011,42
+Bagels/Pretzels,10014,8
+Bagels/Pretzels,10016,81
+Bagels/Pretzels,10017,12
+Bagels/Pretzels,10019,11
+Bagels/Pretzels,10021,20
+Bagels/Pretzels,10022,27
+Bagels/Pretzels,10023,18
+Bagels/Pretzels,10024,18
+Bagels/Pretzels,10025,82
+Bagels/Pretzels,10026,2
+Bagels/Pretzels,10028,83
+Bagels/Pretzels,10030,16
+Bagels/Pretzels,10032,13
+Bagels/Pretzels,10035,28
+Bagels/Pretzels,10038,54
+Bagels/Pretzels,10065,83
+Bagels/Pretzels,10075,71
+Bagels/Pretzels,11101,23
+Bagels/Pretzels,11102,52
+Bagels/Pretzels,11103,27
+Bagels/Pretzels,11104,10
+Bagels/Pretzels,11105,31
+Bagels/Pretzels,11106,32
+Bagels/Pretzels,10128,59
+Bagels/Pretzels,11693,31
+Bagels/Pretzels,11694,37
+Bagels/Pretzels,11201,68
+Bagels/Pretzels,11205,29
+Bagels/Pretzels,11206,53
+Bagels/Pretzels,11209,105
+Bagels/Pretzels,11211,36
+Bagels/Pretzels,11214,25
+Bagels/Pretzels,11215,70
+Bagels/Pretzels,11216,2
+Bagels/Pretzels,11217,22
+Bagels/Pretzels,11219,7
+Bagels/Pretzels,11220,22
+Bagels/Pretzels,11222,23
+Bagels/Pretzels,11223,29
+Bagels/Pretzels,11225,12
+Bagels/Pretzels,11226,21
+Bagels/Pretzels,11229,81
+Bagels/Pretzels,11231,38
+Bagels/Pretzels,11234,98
+Bagels/Pretzels,11235,29
+Bagels/Pretzels,11236,4
+Bagels/Pretzels,11238,29
+Sandwiches/Salads/Mixed Buffet,10281,10
+Sandwiches/Salads/Mixed Buffet,10301,16
+Sandwiches/Salads/Mixed Buffet,10302,23
+Sandwiches/Salads/Mixed Buffet,10309,5
+Sandwiches/Salads/Mixed Buffet,10312,6
+Sandwiches/Salads/Mixed Buffet,10314,31
+Sandwiches/Salads/Mixed Buffet,11354,22
+Sandwiches/Salads/Mixed Buffet,11361,19
+Sandwiches/Salads/Mixed Buffet,11365,15
+Sandwiches/Salads/Mixed Buffet,11369,54
+Sandwiches/Salads/Mixed Buffet,11371,6
+Sandwiches/Salads/Mixed Buffet,11373,33
+Sandwiches/Salads/Mixed Buffet,11377,27
+Sandwiches/Salads/Mixed Buffet,11385,5
+Sandwiches/Salads/Mixed Buffet,11413,6
+Sandwiches/Salads/Mixed Buffet,11415,25
+Sandwiches/Salads/Mixed Buffet,11418,21
+Sandwiches/Salads/Mixed Buffet,11420,5
+Sandwiches/Salads/Mixed Buffet,11421,8
+Sandwiches/Salads/Mixed Buffet,11423,28
+Sandwiches/Salads/Mixed Buffet,11430,82
+Sandwiches/Salads/Mixed Buffet,11433,2
+Sandwiches/Salads/Mixed Buffet,11434,22
+Sandwiches/Salads/Mixed Buffet,11435,8
+Sandwiches/Salads/Mixed Buffet,11040,14
+Sandwiches/Salads/Mixed Buffet,10451,21
+Sandwiches/Salads/Mixed Buffet,10452,2
+Sandwiches/Salads/Mixed Buffet,10453,8
+Sandwiches/Salads/Mixed Buffet,10458,59
+Sandwiches/Salads/Mixed Buffet,10460,14
+Sandwiches/Salads/Mixed Buffet,10461,14
+Sandwiches/Salads/Mixed Buffet,10462,19
+Sandwiches/Salads/Mixed Buffet,10463,17
+Sandwiches/Salads/Mixed Buffet,10466,21
+Sandwiches/Salads/Mixed Buffet,10468,3
+Sandwiches/Salads/Mixed Buffet,10470,2
+Sandwiches/Salads/Mixed Buffet,10473,3
+Sandwiches/Salads/Mixed Buffet,10475,15
+Sandwiches/Salads/Mixed Buffet,10001,107
+Sandwiches/Salads/Mixed Buffet,10002,38
+Sandwiches/Salads/Mixed Buffet,10003,47
+Sandwiches/Salads/Mixed Buffet,10004,127
+Sandwiches/Salads/Mixed Buffet,10005,58
+Sandwiches/Salads/Mixed Buffet,10006,18
+Sandwiches/Salads/Mixed Buffet,10007,64
+Sandwiches/Salads/Mixed Buffet,10009,9
+Sandwiches/Salads/Mixed Buffet,10010,77
+Sandwiches/Salads/Mixed Buffet,10011,56
+Sandwiches/Salads/Mixed Buffet,10012,18
+Sandwiches/Salads/Mixed Buffet,10013,22
+Sandwiches/Salads/Mixed Buffet,10016,23
+Sandwiches/Salads/Mixed Buffet,10017,45
+Sandwiches/Salads/Mixed Buffet,10018,102
+Sandwiches/Salads/Mixed Buffet,10019,112
+Sandwiches/Salads/Mixed Buffet,10020,29
+Sandwiches/Salads/Mixed Buffet,10021,16
+Sandwiches/Salads/Mixed Buffet,10022,67
+Sandwiches/Salads/Mixed Buffet,10023,39
+Sandwiches/Salads/Mixed Buffet,10024,14
+Sandwiches/Salads/Mixed Buffet,10025,25
+Sandwiches/Salads/Mixed Buffet,10026,10
+Sandwiches/Salads/Mixed Buffet,10027,42
+Sandwiches/Salads/Mixed Buffet,10029,31
+Sandwiches/Salads/Mixed Buffet,10031,20
+Sandwiches/Salads/Mixed Buffet,10032,38
+Sandwiches/Salads/Mixed Buffet,10033,13
+Sandwiches/Salads/Mixed Buffet,10035,6
+Sandwiches/Salads/Mixed Buffet,10036,151
+Sandwiches/Salads/Mixed Buffet,10037,2
+Sandwiches/Salads/Mixed Buffet,10038,7
+Sandwiches/Salads/Mixed Buffet,11101,49
+Sandwiches/Salads/Mixed Buffet,11104,17
+Sandwiches/Salads/Mixed Buffet,11105,6
+Sandwiches/Salads/Mixed Buffet,10112,38
+Sandwiches/Salads/Mixed Buffet,10119,23
+Sandwiches/Salads/Mixed Buffet,10128,32
+Sandwiches/Salads/Mixed Buffet,11691,14
+Sandwiches/Salads/Mixed Buffet,11692,14
+Sandwiches/Salads/Mixed Buffet,10174,22
+Sandwiches/Salads/Mixed Buffet,11201,65
+Sandwiches/Salads/Mixed Buffet,11207,13
+Sandwiches/Salads/Mixed Buffet,11209,8
+Sandwiches/Salads/Mixed Buffet,11211,28
+Sandwiches/Salads/Mixed Buffet,11215,16
+Sandwiches/Salads/Mixed Buffet,11217,36
+Sandwiches/Salads/Mixed Buffet,11218,61
+Sandwiches/Salads/Mixed Buffet,11219,5
+Sandwiches/Salads/Mixed Buffet,11220,15
+Sandwiches/Salads/Mixed Buffet,11221,6
+Sandwiches/Salads/Mixed Buffet,11225,22
+Sandwiches/Salads/Mixed Buffet,11232,18
+Sandwiches/Salads/Mixed Buffet,11234,43
+Sandwiches/Salads/Mixed Buffet,11235,29
+Sandwiches/Salads/Mixed Buffet,11236,30
+Sandwiches/Salads/Mixed Buffet,11237,6
+Sandwiches/Salads/Mixed Buffet,11238,3
+Sandwiches/Salads/Mixed Buffet,11249,19
+Seafood,10282,8
+Seafood,10305,18
+Seafood,10308,6
+Seafood,10309,13
+Seafood,11354,54
+Seafood,11355,15
+Seafood,11371,6
+Seafood,11372,15
+Seafood,11373,27
+Seafood,11374,15
+Seafood,11377,32
+Seafood,11412,53
+Seafood,11414,31
+Seafood,11418,36
+Seafood,11430,11
+Seafood,11432,32
+Seafood,11434,14
+Seafood,10451,84
+Seafood,10452,6
+Seafood,10453,8
+Seafood,10455,36
+Seafood,10456,25
+Seafood,10462,25
+Seafood,10464,158
+Seafood,10465,17
+Seafood,10467,3
+Seafood,10473,4
+Seafood,10475,17
+Seafood,10001,39
+Seafood,10002,47
+Seafood,10003,87
+Seafood,10004,16
+Seafood,10009,30
+Seafood,10010,84
+Seafood,10011,47
+Seafood,10012,75
+Seafood,10013,81
+Seafood,10014,134
+Seafood,10016,15
+Seafood,10017,40
+Seafood,10018,1
+Seafood,10019,45
+Seafood,10020,10
+Seafood,10022,26
+Seafood,10023,16
+Seafood,10024,13
+Seafood,10025,4
+Seafood,10026,8
+Seafood,10027,31
+Seafood,10028,10
+Seafood,10029,26
+Seafood,10030,33
+Seafood,10031,7
+Seafood,10032,64
+Seafood,10033,26
+Seafood,10034,27
+Seafood,10036,46
+Seafood,10037,19
+Seafood,10038,42
+Seafood,10039,1
+Seafood,10040,2
+Seafood,10065,7
+Seafood,10075,6
+Seafood,11101,14
+Seafood,11102,10
+Seafood,11103,55
+Seafood,11105,37
+Seafood,10121,4
+Seafood,10128,13
+Seafood,10169,6
+Seafood,11201,8
+Seafood,11203,30
+Seafood,11205,28
+Seafood,11209,25
+Seafood,11211,5
+Seafood,11212,23
+Seafood,11213,20
+Seafood,11215,89
+Seafood,11217,24
+Seafood,11219,11
+Seafood,11220,21
+Seafood,11222,19
+Seafood,11223,12
+Seafood,11231,70
+Seafood,11232,5
+Seafood,11234,56
+Seafood,11235,10
+Seafood,11238,12
+Seafood,11239,22
+Seafood,11249,49
+Middle Eastern,10027,11
+Middle Eastern,11368,15
+Middle Eastern,11421,10
+Middle Eastern,11426,11
+Middle Eastern,11210,2
+Middle Eastern,10001,27
+Middle Eastern,10002,50
+Middle Eastern,10003,107
+Middle Eastern,10007,23
+Middle Eastern,10009,76
+Middle Eastern,10010,18
+Middle Eastern,10011,45
+Middle Eastern,10012,54
+Middle Eastern,10013,11
+Middle Eastern,10014,28
+Middle Eastern,10016,18
+Middle Eastern,10018,51
+Middle Eastern,10019,11
+Middle Eastern,10022,93
+Middle Eastern,10023,8
+Middle Eastern,11432,30
+Middle Eastern,10025,97
+Middle Eastern,10026,25
+Middle Eastern,11435,9
+Middle Eastern,10030,11
+Middle Eastern,10031,26
+Middle Eastern,10312,6
+Middle Eastern,10036,46
+Middle Eastern,10462,49
+Middle Eastern,10169,4
+Middle Eastern,11231,7
+Middle Eastern,10314,21
+Middle Eastern,11365,14
+Middle Eastern,11201,129
+Middle Eastern,11205,17
+Middle Eastern,11206,37
+Middle Eastern,11208,3
+Middle Eastern,11209,121
+Middle Eastern,11229,22
+Middle Eastern,11211,60
+Middle Eastern,10317,10
+Middle Eastern,11214,36
+Middle Eastern,11215,53
+Middle Eastern,11216,40
+Middle Eastern,11217,57
+Middle Eastern,11218,151
+Middle Eastern,11220,56
+Middle Eastern,11221,4
+Middle Eastern,11222,29
+Middle Eastern,11223,63
+Middle Eastern,11417,11
+Middle Eastern,11225,18
+Middle Eastern,11226,13
+Middle Eastern,11355,24
+Middle Eastern,11228,8
+Middle Eastern,11101,13
+Middle Eastern,11358,20
+Middle Eastern,11103,157
+Middle Eastern,11232,10
+Middle Eastern,11105,108
+Middle Eastern,11235,108
+Middle Eastern,11237,31
+Middle Eastern,11238,29
+Middle Eastern,11430,5
+Middle Eastern,11230,37
+Middle Eastern,10075,2
+Middle Eastern,11372,23
+Middle Eastern,11374,6
+Middle Eastern,11249,34
+Middle Eastern,11385,14
+Other,10281,1
+Other,10285,1
+Other,10301,4
+Other,10302,19
+Other,10304,8
+Other,10305,3
+Other,10306,1
+Other,10308,1
+Other,10309,10
+Other,10310,10
+Other,10312,20
+Other,10314,8
+Other,11354,54
+Other,11355,25
+Other,11356,6
+Other,11357,14
+Other,11358,20
+Other,11361,7
+Other,11362,9
+Other,11364,12
+Other,11365,13
+Other,11366,2
+Other,11367,13
+Other,11368,55
+Other,11369,2
+Other,11370,5
+Other,11372,33
+Other,11373,22
+Other,11374,4
+Other,11375,12
+Other,11377,43
+Other,11378,7
+Other,11379,4
+Other,11385,28
+Other,11411,2
+Other,11412,10
+Other,11413,3
+Other,11414,10
+Other,11415,18
+Other,11416,7
+Other,11417,12
+Other,11418,9
+Other,11419,3
+Other,11420,25
+Other,11421,1
+Other,11422,13
+Other,11423,2
+Other,11426,4
+Other,11428,1
+Other,11429,1
+Other,11430,18
+Other,11432,14
+Other,11433,1
+Other,11435,17
+Other,11436,1
+Other,10016,21
+Other,10451,7
+Other,10452,10
+Other,10453,4
+Other,10454,3
+Other,10455,19
+Other,10456,1
+Other,10457,34
+Other,10458,4
+Other,10459,6
+Other,10460,3
+Other,10461,10
+Other,10462,9
+Other,10463,2
+Other,10464,1
+Other,10465,7
+Other,10466,2
+Other,10467,8
+Other,10468,3
+Other,10469,3
+Other,10470,7
+Other,10472,17
+Other,10473,2
+Other,10474,10
+Other,10475,1
+Other,11003,1
+Other,11004,3
+Other,10001,79
+Other,10002,74
+Other,10003,64
+Other,10004,9
+Other,10005,5
+Other,10006,10
+Other,10007,2
+Other,10009,20
+Other,10010,23
+Other,10011,19
+Other,10012,24
+Other,10013,26
+Other,10014,31
+Other,11040,30
+Other,10017,24
+Other,10018,22
+Other,10019,85
+Other,10020,1
+Other,10021,8
+Other,10022,31
+Other,10023,28
+Other,10024,14
+Other,10025,26
+Other,10026,3
+Other,10027,10
+Other,10028,8
+Other,10029,23
+Other,10030,4
+Other,10031,4
+Other,10032,7
+Other,10033,6
+Other,10034,4
+Other,10035,3
+Other,10036,70
+Other,10037,1
+Other,10038,11
+Other,10039,6
+Other,10040,5
+Other,10065,5
+Other,10075,6
+Other,11101,28
+Other,11102,18
+Other,11103,35
+Other,11104,4
+Other,11105,14
+Other,11106,9
+Other,10103,1
+Other,10106,1
+Other,10118,3
+Other,10119,1
+Other,10121,2
+Other,10128,3
+Other,10153,1
+Other,11691,2
+Other,11693,4
+Other,11697,1
+Other,10166,2
+Other,10169,1
+Other,11201,12
+Other,11203,5
+Other,11204,17
+Other,11205,21
+Other,11206,21
+Other,11207,17
+Other,11208,29
+Other,11209,27
+Other,11210,2
+Other,11211,28
+Other,11212,12
+Other,11213,19
+Other,11214,26
+Other,11215,15
+Other,11216,13
+Other,11217,26
+Other,11218,12
+Other,11219,10
+Other,11220,14
+Other,11221,11
+Other,11222,24
+Other,11223,16
+Other,11224,3
+Other,11225,2
+Other,11226,20
+Other,11228,3
+Other,11229,5
+Other,11230,13
+Other,11231,10
+Other,11232,12
+Other,11233,19
+Other,11234,11
+Other,11235,11
+Other,11236,18
+Other,11237,29
+Other,11238,19
+Other,11249,17
+Tex-Mex,11691,3
+Tex-Mex,10305,4
+Tex-Mex,10121,3
+Tex-Mex,11415,17
+Tex-Mex,10128,44
+Tex-Mex,10001,25
+Tex-Mex,10003,23
+Tex-Mex,11413,35
+Tex-Mex,10007,41
+Tex-Mex,10465,6
+Tex-Mex,10009,20
+Tex-Mex,10010,28
+Tex-Mex,10011,16
+Tex-Mex,11236,5
+Tex-Mex,10014,66
+Tex-Mex,10016,94
+Tex-Mex,10018,8
+Tex-Mex,10019,79
+Tex-Mex,11428,19
+Tex-Mex,10022,35
+Tex-Mex,10033,3
+Tex-Mex,10024,36
+Tex-Mex,10025,38
+Tex-Mex,11434,19
+Tex-Mex,10027,7
+Tex-Mex,10028,14
+Tex-Mex,10029,21
+Tex-Mex,10031,36
+Tex-Mex,10032,6
+Tex-Mex,10463,20
+Tex-Mex,10036,36
+Tex-Mex,10040,14
+Tex-Mex,11103,24
+Tex-Mex,10314,21
+Tex-Mex,10065,38
+Tex-Mex,11105,25
+Tex-Mex,11201,39
+Tex-Mex,10306,27
+Tex-Mex,11203,7
+Tex-Mex,11204,25
+Tex-Mex,11205,25
+Tex-Mex,10310,21
+Tex-Mex,11207,28
+Tex-Mex,11209,54
+Tex-Mex,11210,13
+Tex-Mex,11211,80
+Tex-Mex,11106,12
+Tex-Mex,11214,42
+Tex-Mex,11215,48
+Tex-Mex,11216,19
+Tex-Mex,11217,94
+Tex-Mex,11235,11
+Tex-Mex,11220,20
+Tex-Mex,10453,27
+Tex-Mex,10454,50
+Tex-Mex,11238,35
+Tex-Mex,11226,16
+Tex-Mex,10075,25
+Tex-Mex,10460,7
+Tex-Mex,10461,12
+Tex-Mex,11358,7
+Tex-Mex,11231,27
+Tex-Mex,11361,35
+Tex-Mex,11234,15
+Tex-Mex,10467,23
+Tex-Mex,11364,21
+Tex-Mex,11237,46
+Tex-Mex,11366,9
+Tex-Mex,11367,2
+Tex-Mex,10475,20
+Tex-Mex,11372,4
+Tex-Mex,11373,24
+Tex-Mex,11374,5
+Tex-Mex,11375,64
+Tex-Mex,11378,6
+Tex-Mex,11379,34
+Tex-Mex,11385,29
+Tex-Mex,11004,9
+Tex-Mex,11229,45
+Greek,10006,13
+Greek,11231,13
+Greek,10305,26
+Greek,10128,39
+Greek,10001,9
+Greek,10002,35
+Greek,10003,36
+Greek,10005,9
+Greek,11414,33
+Greek,10009,22
+Greek,10010,1
+Greek,10011,15
+Greek,10013,64
+Greek,10014,25
+Greek,10016,49
+Greek,10017,63
+Greek,10019,103
+Greek,10021,8
+Greek,10022,73
+Greek,10024,12
+Greek,10025,28
+Greek,10028,17
+Greek,10029,15
+Greek,11101,12
+Greek,10461,9
+Greek,10036,50
+Greek,11358,34
+Greek,10038,13
+Greek,10169,8
+Greek,10463,40
+Greek,11201,27
+Greek,10306,10
+Greek,11361,69
+Greek,10312,26
+Greek,11209,92
+Greek,10314,2
+Greek,11211,8
+Greek,11106,93
+Greek,11215,51
+Greek,10065,36
+Greek,11219,14
+Greek,11220,31
+Greek,10034,4
+Greek,11223,10
+Greek,11364,13
+Greek,10075,22
+Greek,11228,6
+Greek,11357,60
+Greek,11102,72
+Greek,11103,97
+Greek,11105,275
+Greek,11362,20
+Greek,11235,2
+Greek,10468,31
+Greek,11217,7
+Greek,11370,38
+Greek,11375,42
+Greek,11249,4
+Greek,11385,18
+Vietnamese/Cambodian/Malaysia,10128,3
+Vietnamese/Cambodian/Malaysia,10002,65
+Vietnamese/Cambodian/Malaysia,10003,59
+Vietnamese/Cambodian/Malaysia,10005,44
+Vietnamese/Cambodian/Malaysia,10009,38
+Vietnamese/Cambodian/Malaysia,10010,25
+Vietnamese/Cambodian/Malaysia,10011,62
+Vietnamese/Cambodian/Malaysia,10012,31
+Vietnamese/Cambodian/Malaysia,10013,313
+Vietnamese/Cambodian/Malaysia,10017,12
+Vietnamese/Cambodian/Malaysia,10018,4
+Vietnamese/Cambodian/Malaysia,10019,35
+Vietnamese/Cambodian/Malaysia,10022,18
+Vietnamese/Cambodian/Malaysia,10025,6
+Vietnamese/Cambodian/Malaysia,11229,19
+Vietnamese/Cambodian/Malaysia,11104,9
+Vietnamese/Cambodian/Malaysia,10036,5
+Vietnamese/Cambodian/Malaysia,11103,2
+Vietnamese/Cambodian/Malaysia,11201,25
+Vietnamese/Cambodian/Malaysia,10306,12
+Vietnamese/Cambodian/Malaysia,11204,22
+Vietnamese/Cambodian/Malaysia,11205,5
+Vietnamese/Cambodian/Malaysia,11209,16
+Vietnamese/Cambodian/Malaysia,10314,12
+Vietnamese/Cambodian/Malaysia,11211,36
+Vietnamese/Cambodian/Malaysia,11234,15
+Vietnamese/Cambodian/Malaysia,11214,14
+Vietnamese/Cambodian/Malaysia,11215,51
+Vietnamese/Cambodian/Malaysia,11217,14
+Vietnamese/Cambodian/Malaysia,11219,2
+Vietnamese/Cambodian/Malaysia,11220,48
+Vietnamese/Cambodian/Malaysia,11221,23
+Vietnamese/Cambodian/Malaysia,11222,22
+Vietnamese/Cambodian/Malaysia,11354,97
+Vietnamese/Cambodian/Malaysia,11355,58
+Vietnamese/Cambodian/Malaysia,11101,29
+Vietnamese/Cambodian/Malaysia,11231,18
+Vietnamese/Cambodian/Malaysia,11232,63
+Vietnamese/Cambodian/Malaysia,11361,22
+Vietnamese/Cambodian/Malaysia,11362,26
+Vietnamese/Cambodian/Malaysia,10468,2
+Vietnamese/Cambodian/Malaysia,11237,39
+Vietnamese/Cambodian/Malaysia,11238,53
+Vietnamese/Cambodian/Malaysia,11373,61
+Vegetarian,10121,7
+Vegetarian,10001,64
+Vegetarian,10002,30
+Vegetarian,10003,108
+Vegetarian,10007,22
+Vegetarian,10009,54
+Vegetarian,10010,19
+Vegetarian,11419,20
+Vegetarian,10012,111
+Vegetarian,10013,94
+Vegetarian,10014,50
+Vegetarian,10017,19
+Vegetarian,10018,23
+Vegetarian,10011,59
+Vegetarian,10021,36
+Vegetarian,10024,54
+Vegetarian,10025,16
+Vegetarian,10026,11
+Vegetarian,10027,4
+Vegetarian,10029,19
+Vegetarian,10033,4
+Vegetarian,10038,15
+Vegetarian,10169,7
+Vegetarian,10065,3
+Vegetarian,11201,36
+Vegetarian,11203,54
+Vegetarian,11205,4
+Vegetarian,11206,61
+Vegetarian,11210,14
+Vegetarian,11211,88
+Vegetarian,11426,26
+Vegetarian,11216,38
+Vegetarian,11217,63
+Vegetarian,10019,10
+Vegetarian,11221,11
+Vegetarian,11222,44
+Vegetarian,11223,10
+Vegetarian,11225,29
+Vegetarian,11226,51
+Vegetarian,10075,18
+Vegetarian,11103,9
+Vegetarian,11238,20
+Vegetarian,11367,22
+Vegetarian,11374,15
+Vegetarian,11432,12
+Vegetarian,11385,4
+Vegetarian,11004,12
+Vegetarian,11434,2
+Vegetarian,11355,15
+Peruvian,11223,26
+Peruvian,10128,40
+Peruvian,10001,33
+Peruvian,10003,4
+Peruvian,11415,18
+Peruvian,11416,36
+Peruvian,11417,27
+Peruvian,11418,9
+Peruvian,10010,19
+Peruvian,10014,29
+Peruvian,10016,26
+Peruvian,10019,7
+Peruvian,10013,1
+Peruvian,11432,15
+Peruvian,10025,25
+Peruvian,11435,15
+Peruvian,10029,12
+Peruvian,11421,26
+Peruvian,10036,32
+Peruvian,10304,9
+Peruvian,11232,57
+Peruvian,10306,23
+Peruvian,10310,4
+Peruvian,11211,5
+Peruvian,11234,16
+Peruvian,11214,23
+Peruvian,11215,52
+Peruvian,11220,18
+Peruvian,10454,10
+Peruvian,10455,6
+Peruvian,11101,28
+Peruvian,11102,20
+Peruvian,11103,5
+Peruvian,11104,55
+Peruvian,11361,34
+Peruvian,11362,12
+Peruvian,11237,15
+Peruvian,11368,85
+Peruvian,11369,26
+Peruvian,11372,395
+Peruvian,11373,49
+Peruvian,11374,80
+Peruvian,11375,33
+Peruvian,11377,10
+Peruvian,11378,17
+Peruvian,11379,5
+African,11435,4
+African,10128,18
+African,10001,57
+African,11236,12
+African,10019,42
+African,10026,106
+African,10027,190
+African,10029,12
+African,10030,38
+African,10035,20
+African,10037,27
+African,10304,20
+African,11201,34
+African,11203,44
+African,11207,11
+African,11216,96
+African,10451,88
+African,10452,2
+African,10453,62
+African,10456,133
+African,10457,50
+African,10458,29
+African,10460,22
+African,11233,10
+African,10466,6
+African,10467,42
+African,10468,19
+African,10469,29
+African,11238,84
+African,10472,37
+African,11226,16
+African,11434,24
+African,11221,11
+Russian,10001,13
+Russian,10003,35
+Russian,10009,30
+Russian,10010,1
+Russian,10014,25
+Russian,10019,91
+Russian,11693,30
+Russian,10038,23
+Russian,10308,9
+Russian,10305,39
+Russian,11204,56
+Russian,11211,17
+Russian,11214,33
+Russian,11218,85
+Russian,11219,44
+Russian,11223,157
+Russian,11224,18
+Russian,11229,76
+Russian,11230,4
+Russian,11106,2
+Russian,11235,481
+Russian,11366,1
+Russian,11374,58
+Russian,11375,19
+Steak,11222,12
+Steak,10128,8
+Steak,10001,26
+Steak,10002,8
+Steak,10003,14
+Steak,10004,17
+Steak,10006,10
+Steak,10007,27
+Steak,10010,35
+Steak,10011,7
+Steak,11420,19
+Steak,10013,33
+Steak,10016,39
+Steak,10017,106
+Steak,10018,33
+Steak,10019,103
+Steak,10020,40
+Steak,10021,5
+Steak,11430,14
+Steak,10023,23
+Steak,10025,13
+Steak,10027,30
+Steak,11228,17
+Steak,10029,21
+Steak,11694,21
+Steak,10036,84
+Steak,10038,8
+Steak,11105,15
+Steak,11209,64
+Steak,10314,21
+Steak,11211,29
+Steak,10065,13
+Steak,10451,5
+Steak,10454,15
+Steak,11356,9
+Steak,11230,9
+Steak,11360,31
+Steak,11361,34
+Steak,11217,4
+Steak,10022,112
+Steak,10471,51
+Steak,10475,9
+Steak,11373,59
+Steak,11375,18
+Eastern European,11201,25
+Eastern European,10002,45
+Eastern European,10003,30
+Eastern European,10006,8
+Eastern European,10009,34
+Eastern European,10010,12
+Eastern European,10012,35
+Eastern European,10013,13
+Eastern European,10016,19
+Eastern European,11249,9
+Eastern European,10025,17
+Eastern European,10028,27
+Eastern European,11229,39
+Eastern European,10034,12
+Eastern European,11230,40
+Eastern European,11103,17
+Eastern European,10305,17
+Eastern European,10306,33
+Eastern European,11204,11
+Eastern European,11209,18
+Eastern European,11211,9
+Eastern European,11214,103
+Eastern European,11215,29
+Eastern European,10462,14
+Eastern European,11218,40
+Eastern European,11220,3
+Eastern European,11223,118
+Eastern European,10458,29
+Eastern European,11101,44
+Eastern European,11102,21
+Eastern European,11231,7
+Eastern European,11104,44
+Eastern European,11235,121
+Eastern European,10469,10
+Eastern European,11374,41
+Eastern European,11377,13
+Eastern European,11378,21
+Eastern European,11385,56
+Turkish,11201,2
+Turkish,10305,19
+Turkish,11414,10
+Turkish,10011,14
+Turkish,10012,48
+Turkish,10013,3
+Turkish,10014,31
+Turkish,10016,78
+Turkish,10017,36
+Turkish,10019,74
+Turkish,10021,31
+Turkish,10022,70
+Turkish,10023,22
+Turkish,10028,13
+Turkish,10036,90
+Turkish,11104,55
+Turkish,10306,25
+Turkish,11209,33
+Turkish,11214,42
+Turkish,11215,21
+Turkish,11222,20
+Turkish,11223,34
+Turkish,11224,14
+Turkish,11229,27
+Turkish,11230,31
+Turkish,11232,6
+Turkish,11105,16
+Turkish,11362,14
+Turkish,11235,208
+Turkish,11374,15
+Turkish,11375,30
+"Bottled beverages, including water, sodas, juices, etc.",10461,10
+"Bottled beverages, including water, sodas, juices, etc.",10012,21
+"Bottled beverages, including water, sodas, juices, etc.",10121,4
+"Bottled beverages, including water, sodas, juices, etc.",10001,4
+"Bottled beverages, including water, sodas, juices, etc.",10003,95
+"Bottled beverages, including water, sodas, juices, etc.",10009,53
+"Bottled beverages, including water, sodas, juices, etc.",11419,36
+"Bottled beverages, including water, sodas, juices, etc.",11420,21
+"Bottled beverages, including water, sodas, juices, etc.",10458,18
+"Bottled beverages, including water, sodas, juices, etc.",10014,51
+"Bottled beverages, including water, sodas, juices, etc.",10016,19
+"Bottled beverages, including water, sodas, juices, etc.",10019,18
+"Bottled beverages, including water, sodas, juices, etc.",10022,14
+"Bottled beverages, including water, sodas, juices, etc.",11432,19
+"Bottled beverages, including water, sodas, juices, etc.",10025,11
+"Bottled beverages, including water, sodas, juices, etc.",11693,8
+"Bottled beverages, including water, sodas, juices, etc.",11694,57
+"Bottled beverages, including water, sodas, juices, etc.",11421,20
+"Bottled beverages, including water, sodas, juices, etc.",11356,9
+"Bottled beverages, including water, sodas, juices, etc.",10034,38
+"Bottled beverages, including water, sodas, juices, etc.",10036,5
+"Bottled beverages, including water, sodas, juices, etc.",10038,13
+"Bottled beverages, including water, sodas, juices, etc.",11237,3
+"Bottled beverages, including water, sodas, juices, etc.",10301,4
+"Bottled beverages, including water, sodas, juices, etc.",10302,2
+"Bottled beverages, including water, sodas, juices, etc.",10307,5
+"Bottled beverages, including water, sodas, juices, etc.",10308,5
+"Bottled beverages, including water, sodas, juices, etc.",11206,5
+"Bottled beverages, including water, sodas, juices, etc.",11209,19
+"Bottled beverages, including water, sodas, juices, etc.",11211,30
+"Bottled beverages, including water, sodas, juices, etc.",11214,23
+"Bottled beverages, including water, sodas, juices, etc.",11215,4
+"Bottled beverages, including water, sodas, juices, etc.",11216,2
+"Bottled beverages, including water, sodas, juices, etc.",11217,17
+"Bottled beverages, including water, sodas, juices, etc.",11221,22
+"Bottled beverages, including water, sodas, juices, etc.",11222,3
+"Bottled beverages, including water, sodas, juices, etc.",11224,18
+"Bottled beverages, including water, sodas, juices, etc.",11226,2
+"Bottled beverages, including water, sodas, juices, etc.",11355,8
+"Bottled beverages, including water, sodas, juices, etc.",11228,10
+"Bottled beverages, including water, sodas, juices, etc.",11229,23
+"Bottled beverages, including water, sodas, juices, etc.",11103,20
+"Bottled beverages, including water, sodas, juices, etc.",11104,33
+"Bottled beverages, including water, sodas, juices, etc.",10470,8
+"Bottled beverages, including water, sodas, juices, etc.",11238,6
+"Bottled beverages, including water, sodas, juices, etc.",11368,55
+"Bottled beverages, including water, sodas, juices, etc.",11371,9
+"Bottled beverages, including water, sodas, juices, etc.",11372,12
+"Bottled beverages, including water, sodas, juices, etc.",11373,103
+"Bottled beverages, including water, sodas, juices, etc.",11377,21
+"Bottled beverages, including water, sodas, juices, etc.",11378,16
+"Bottled beverages, including water, sodas, juices, etc.",11379,10
+"Bottled beverages, including water, sodas, juices, etc.",11354,42
+"Bottled beverages, including water, sodas, juices, etc.",11385,6
+"Bottled beverages, including water, sodas, juices, etc.",10472,21
+Soul Food,11412,24
+Soul Food,10009,8
+Soul Food,11422,5
+Soul Food,10019,8
+Soul Food,10025,36
+Soul Food,11434,27
+Soul Food,10027,63
+Soul Food,10030,27
+Soul Food,10035,43
+Soul Food,10037,42
+Soul Food,10301,29
+Soul Food,10303,22
+Soul Food,11201,40
+Soul Food,11205,27
+Soul Food,10465,18
+Soul Food,11211,12
+Soul Food,11212,44
+Soul Food,11216,73
+Soul Food,10451,44
+Soul Food,10452,15
+Soul Food,11221,3
+Soul Food,11222,29
+Soul Food,10455,17
+Soul Food,10456,12
+Soul Food,11225,4
+Soul Food,11226,26
+Soul Food,10459,3
+Soul Food,11233,169
+Soul Food,10466,6
+Soul Food,11238,29
+Soul Food,10472,28
+Soul Food,10026,47
+Bangladeshi,10016,24
+Bangladeshi,11104,7
+Bangladeshi,10018,17
+Bangladeshi,10467,5
+Bangladeshi,11377,13
+Bangladeshi,11432,193
+Bangladeshi,11372,172
+Bangladeshi,10029,7
+Bangladeshi,10472,24
+Bangladeshi,11218,161
+Bangladeshi,10003,61
+Bangladeshi,11208,51
+Bangladeshi,11102,25
+Bangladeshi,10007,32
+Bangladeshi,11416,57
+Bangladeshi,11233,10
+Bangladeshi,10012,27
+Bangladeshi,11106,32
+Bangladeshi,10462,44
+Continental,11373,7
+Continental,10128,28
+Continental,10001,17
+Continental,10004,22
+Continental,11413,9
+Continental,10009,6
+Continental,10010,33
+Continental,11420,13
+Continental,10013,43
+Continental,10014,15
+Continental,10017,16
+Continental,10018,27
+Continental,10019,22
+Continental,10020,8
+Continental,10021,9
+Continental,10022,12
+Continental,10028,42
+Continental,10036,30
+Continental,10038,20
+Continental,11201,12
+Continental,10178,6
+Continental,10166,1
+Continental,11206,17
+Continental,10314,7
+Continental,11211,6
+Continental,11215,35
+Continental,11219,18
+Continental,10452,18
+Continental,11222,13
+Continental,11101,74
+Continental,11103,19
+Continental,11360,11
+Continental,11106,39
+Continental,11430,13
+Continental,11367,35
+Continental,11368,15
+Continental,11369,5
+Continental,11372,44
+Continental,11245,3
+Continental,11375,22
+Continental,11378,17
+Continental,11005,69
+Chinese/Japanese,10121,14
+Chinese/Japanese,10128,28
+Chinese/Japanese,10003,13
+Chinese/Japanese,11414,24
+Chinese/Japanese,11418,4
+Chinese/Japanese,11420,24
+Chinese/Japanese,10013,53
+Chinese/Japanese,10016,78
+Chinese/Japanese,10019,43
+Chinese/Japanese,10022,64
+Chinese/Japanese,10023,37
+Chinese/Japanese,10024,43
+Chinese/Japanese,10028,10
+Chinese/Japanese,10029,9
+Chinese/Japanese,11101,17
+Chinese/Japanese,11230,25
+Chinese/Japanese,10038,5
+Chinese/Japanese,11201,15
+Chinese/Japanese,10306,8
+Chinese/Japanese,11204,20
+Chinese/Japanese,10314,8
+Chinese/Japanese,11217,13
+Chinese/Japanese,11219,15
+Chinese/Japanese,11220,19
+Chinese/Japanese,11354,67
+Chinese/Japanese,10075,12
+Chinese/Japanese,11357,30
+Chinese/Japanese,11358,25
+Chinese/Japanese,11103,5
+Chinese/Japanese,11105,6
+Chinese/Japanese,11234,65
+Chinese/Japanese,11235,23
+Chinese/Japanese,11374,21
+Chinese/Japanese,11378,9
+Barbecue,10121,2
+Barbecue,10001,46
+Barbecue,10002,13
+Barbecue,10003,43
+Barbecue,10010,30
+Barbecue,10011,28
+Barbecue,10016,13
+Barbecue,10018,2
+Barbecue,10021,7
+Barbecue,10281,8
+Barbecue,10282,12
+Barbecue,10027,66
+Barbecue,10032,13
+Barbecue,10036,49
+Barbecue,10037,25
+Barbecue,11103,21
+Barbecue,10301,25
+Barbecue,10065,21
+Barbecue,11201,45
+Barbecue,11210,4
+Barbecue,11211,11
+Barbecue,11215,48
+Barbecue,11217,59
+Barbecue,11220,48
+Barbecue,10075,5
+Barbecue,11231,13
+Barbecue,11233,9
+Barbecue,11106,17
+Barbecue,10468,27
+Barbecue,11237,41
+Barbecue,10471,19
+Barbecue,11374,13
+Barbecue,11385,13
+Salads,10118,1
+Salads,10001,50
+Salads,10003,83
+Salads,10004,11
+Salads,10005,18
+Salads,10007,6
+Salads,10010,28
+Salads,10011,17
+Salads,10012,33
+Salads,10013,25
+Salads,10014,10
+Salads,10023,6
+Salads,10016,25
+Salads,10017,7
+Salads,10018,17
+Salads,10019,45
+Salads,10020,25
+Salads,10021,15
+Salads,10022,47
+Salads,10279,6
+Salads,10024,8
+Salads,10281,11
+Salads,10028,25
+Salads,10034,3
+Salads,10036,1
+Salads,10038,13
+Salads,10169,4
+Salads,10301,41
+Salads,11201,7
+Salads,11209,2
+Salads,11215,24
+Salads,10065,6
+Salads,11354,2
+Salads,10075,7
+Salads,11228,24
+Salads,11105,14
+Salads,11430,11
+Salads,11217,7
+Salads,11367,15
+Salads,10025,3
+Filipino,10305,23
+Filipino,10018,8
+Filipino,11428,7
+Filipino,11366,12
+Filipino,11432,13
+Filipino,10314,16
+Filipino,11373,70
+Filipino,10128,8
+Filipino,11377,390
+Filipino,10002,7
+Filipino,10003,45
+Filipino,10009,6
+Filipino,10010,15
+Filipino,10011,17
+Filipino,11356,4
+Filipino,10014,23
+Filipino,11231,5
+Pakistani,11201,4
+Pakistani,11235,51
+Pakistani,11237,21
+Pakistani,11365,12
+Pakistani,11432,43
+Pakistani,10025,50
+Pakistani,11370,17
+Pakistani,11372,121
+Pakistani,10029,10
+Pakistani,11214,23
+Pakistani,10462,2
+Pakistani,10001,20
+Pakistani,11218,87
+Pakistani,11102,46
+Pakistani,11418,5
+Pakistani,11355,37
+Pakistani,11226,8
+Pakistani,11230,81
+Pakistani,10469,9
+German,10002,30
+German,10004,5
+German,11417,56
+German,10009,33
+German,10010,22
+German,10011,6
+German,10013,13
+German,10014,81
+German,10017,21
+German,10018,11
+German,11430,9
+German,10027,10
+German,10028,53
+German,10169,6
+German,11201,4
+German,10309,21
+German,10310,42
+German,11209,16
+German,11211,11
+German,11215,31
+German,11217,20
+German,11357,13
+German,11103,28
+German,11371,8
+German,11375,28
+German,11385,44
+Creole,11233,14
+Creole,11234,17
+Creole,11203,84
+Creole,11428,78
+Creole,11205,37
+Creole,11210,26
+Creole,11217,25
+Creole,10002,16
+Creole,11411,11
+Creole,11225,13
+Creole,11226,201
+Creole,11237,15
+Creole,11236,11
+Creole,11422,25
+Creole,11429,29
+Polish,10304,2
+Polish,10305,14
+Polish,11201,3
+Polish,11209,2
+Polish,11214,12
+Polish,11249,48
+Polish,11378,21
+Polish,10003,70
+Polish,11222,252
+Polish,11385,77
+Polish,10010,8
+Polish,10303,20
+Soups & Sandwiches,10112,23
+Soups & Sandwiches,10121,4
+Soups & Sandwiches,10001,3
+Soups & Sandwiches,10003,17
+Soups & Sandwiches,10004,5
+Soups & Sandwiches,10005,5
+Soups & Sandwiches,10007,21
+Soups & Sandwiches,10010,11
+Soups & Sandwiches,10011,43
+Soups & Sandwiches,10013,9
+Soups & Sandwiches,10014,15
+Soups & Sandwiches,10016,14
+Soups & Sandwiches,10017,67
+Soups & Sandwiches,10018,32
+Soups & Sandwiches,10019,47
+Soups & Sandwiches,10022,22
+Soups & Sandwiches,10280,6
+Soups & Sandwiches,10025,18
+Soups & Sandwiches,10036,18
+Soups & Sandwiches,10039,22
+Soups & Sandwiches,11201,30
+Soups & Sandwiches,11217,5
+Soups & Sandwiches,11220,4
+Soups & Sandwiches,11223,14
+Soups & Sandwiches,11228,7
+Soups & Sandwiches,10462,13
+Soups & Sandwiches,10065,5
+Soups & Sandwiches,11375,8
+Soups & Sandwiches,10024,14
+Tapas,10001,13
+Tapas,10002,60
+Tapas,10003,28
+Tapas,10009,52
+Tapas,10010,10
+Tapas,10012,13
+Tapas,10013,23
+Tapas,10023,20
+Tapas,10024,6
+Tapas,10281,9
+Tapas,10033,37
+Tapas,10035,5
+Tapas,10039,10
+Tapas,10040,29
+Tapas,11201,1
+Tapas,11209,20
+Tapas,11211,32
+Tapas,11215,12
+Tapas,11354,16
+Tapas,10075,26
+Tapas,10463,38
+Tapas,11105,4
+Tapas,11106,13
+Tapas,11369,2
+Tapas,11249,13
+Armenian,10121,4
+Armenian,10001,9
+Armenian,10003,33
+Armenian,10005,7
+Armenian,10011,23
+Armenian,10012,3
+Armenian,10014,66
+Armenian,10016,5
+Armenian,10019,2
+Armenian,10022,19
+Armenian,10024,16
+Armenian,10025,16
+Armenian,10029,12
+Armenian,10034,11
+Armenian,10307,2
+Armenian,11206,7
+Armenian,11234,8
+Armenian,11214,4
+Armenian,11222,24
+Armenian,11225,9
+Armenian,11228,3
+Armenian,11101,77
+Armenian,11103,31
+Armenian,11104,19
+Armenian,10465,5
+Armenian,11106,24
+Armenian,11238,11
+Armenian,11373,8
+Armenian,11249,7
+Armenian,11432,3
+Brazilian,11105,9
+Brazilian,11106,25
+Brazilian,10019,40
+Brazilian,11368,17
+Brazilian,11211,64
+Brazilian,11372,16
+Brazilian,11693,5
+Brazilian,10128,14
+Brazilian,10002,10
+Brazilian,10036,70
+Brazilian,10009,42
+Brazilian,11101,58
+Brazilian,10014,25
+Brazilian,11103,22
+Chinese/Cuban,10018,9
+Chinese/Cuban,11355,6
+Chinese/Cuban,11237,61
+Chinese/Cuban,10033,31
+Chinese/Cuban,11368,26
+Chinese/Cuban,10025,45
+Chinese/Cuban,11211,26
+Chinese/Cuban,11215,14
+Chinese/Cuban,10032,15
+Chinese/Cuban,10024,21
+Chinese/Cuban,10034,4
+Chinese/Cuban,10003,21
+Chinese/Cuban,11220,8
+Chinese/Cuban,10040,7
+Chinese/Cuban,10011,5
+Chinese/Cuban,10472,5
+Chinese/Cuban,10461,14
+Chinese/Cuban,10023,23
+Hotdogs,11201,27
+Hotdogs,11234,11
+Hotdogs,10019,7
+Hotdogs,11238,5
+Hotdogs,10023,5
+Hotdogs,11369,19
+Hotdogs,10475,6
+Hotdogs,10028,17
+Hotdogs,10034,4
+Hotdogs,11217,25
+Hotdogs,11209,8
+Hotdogs,10003,46
+Hotdogs,10036,6
+Hotdogs,10001,2
+Hotdogs,10121,14
+Hotdogs,11224,25
+Hotdogs,10018,2
+Hotdogs,11228,9
+Hotdogs,10017,17
+Hotdogs,10014,13
+Hotdogs,11105,6
+Ethiopian,11201,17
+Ethiopian,11237,12
+Ethiopian,10025,27
+Ethiopian,10026,11
+Ethiopian,10027,30
+Ethiopian,10030,12
+Ethiopian,10031,13
+Ethiopian,11217,18
+Ethiopian,10003,18
+Ethiopian,10036,50
+Ethiopian,10039,2
+Ethiopian,10009,18
+Ethiopian,10012,13
+Ethiopian,10014,18
+Australian,11105,31
+Australian,10018,11
+Australian,11206,12
+Australian,10022,18
+Australian,10024,31
+Australian,11215,30
+Australian,10001,8
+Australian,10002,18
+Australian,10003,13
+Australian,10038,10
+Australian,10009,22
+Australian,10011,9
+Australian,10012,14
+Australian,10013,14
+Australian,10014,18
+Pancakes/Waffles,11234,27
+Pancakes/Waffles,10467,35
+Pancakes/Waffles,11206,9
+Pancakes/Waffles,10472,9
+Pancakes/Waffles,10314,19
+Pancakes/Waffles,10475,7
+Pancakes/Waffles,11372,22
+Pancakes/Waffles,10030,29
+Pancakes/Waffles,11215,8
+Pancakes/Waffles,11432,4
+Pancakes/Waffles,10035,7
+Pancakes/Waffles,11417,4
+Pancakes/Waffles,11354,44
+Pancakes/Waffles,11422,17
+English,10016,9
+English,11201,24
+English,11106,9
+English,10019,34
+English,10021,20
+English,11215,4
+English,10001,6
+English,10002,18
+English,10036,10
+English,10005,9
+English,10011,26
+English,10014,66
+English,11231,5
+Afghan,11105,28
+Afghan,11106,7
+Afghan,10019,19
+Afghan,11365,5
+Afghan,10021,5
+Afghan,11367,35
+Afghan,11356,3
+Afghan,10003,33
+Afghan,11418,3
+Afghan,11355,15
+Afghan,11004,10
+Afghan,11229,6
+Afghan,11230,37
+Afghan,11103,26
+Hawaiian,10003,3
+Hawaiian,10005,11
+Hawaiian,10010,26
+Hawaiian,10011,3
+Hawaiian,10012,16
+Hawaiian,10013,2
+Hawaiian,10014,6
+Hawaiian,10016,2
+Hawaiian,10018,29
+Hawaiian,10019,2
+Hawaiian,10022,2
+Hawaiian,10029,4
+Hawaiian,10031,2
+Hawaiian,10033,3
+Hawaiian,10036,2
+Hawaiian,10038,10
+Hawaiian,10168,12
+Hawaiian,11201,1
+Hawaiian,11211,20
+Hawaiian,11106,14
+Hawaiian,11103,2
+Hawaiian,10466,27
+Hawaiian,11249,14
+Moroccan,10018,35
+Moroccan,11209,2
+Moroccan,10314,2
+Moroccan,10029,26
+Moroccan,10065,23
+Moroccan,10003,12
+Moroccan,10036,10
+Moroccan,10009,9
+Moroccan,10012,65
+Moroccan,11103,24
+Portuguese,11428,27
+Portuguese,10310,7
+Portuguese,11435,75
+Portuguese,10002,3
+Portuguese,11222,28
+Portuguese,10009,5
+Portuguese,10011,17
+Egyptian,11209,37
+Egyptian,10027,12
+Egyptian,11215,25
+Egyptian,10036,13
+Egyptian,11220,6
+Egyptian,10012,3
+Egyptian,11101,5
+Egyptian,10014,22
+Egyptian,11103,32
+Hotdogs/Pretzels,11217,14
+Hotdogs/Pretzels,11432,7
+Hotdogs/Pretzels,10121,16
+Hotdogs/Pretzels,10314,5
+Hotdogs/Pretzels,10001,23
+Hotdogs/Pretzels,10003,14
+Hotdogs/Pretzels,10036,25
+Hotdogs/Pretzels,10004,11
+Hotdogs/Pretzels,11354,1
+Hotdogs/Pretzels,10011,5
+Hotdogs/Pretzels,10301,18
+Hotdogs/Pretzels,10463,13
+Cajun,11201,15
+Cajun,11205,9
+Cajun,11238,1
+Cajun,10305,13
+Cajun,11432,26
+Cajun,10314,10
+Cajun,11373,22
+Cajun,11216,9
+Cajun,11354,5
+Cajun,11103,27
+Southwestern,10112,29
+Southwestern,11105,48
+Southwestern,10306,15
+Southwestern,10312,20
+Southwestern,11216,1
+Southwestern,10036,7
+Indonesian,11373,32
+Indonesian,11215,8
+Indonesian,10003,6
+Indonesian,11222,18
+Indonesian,10012,23
+Indonesian,10013,16
+Creole/Cajun,11105,22
+Creole/Cajun,11210,28
+Creole/Cajun,10467,22
+Creole/Cajun,11249,16
+Californian,11205,11
+Californian,10012,2
+Californian,11213,12
+Californian,10014,44
+Californian,10013,9
+Not Listed/Not Applicable,11104,13
+Not Listed/Not Applicable,10016,5
+Not Listed/Not Applicable,10119,2
+Not Listed/Not Applicable,11368,6
+Not Listed/Not Applicable,11101,3
+Not Listed/Not Applicable,11377,40
+Not Listed/Not Applicable,10010,4
+Not Listed/Not Applicable,10461,2
+Not Listed/Not Applicable,11230,1
+Scandinavian,10016,12
+Scandinavian,11249,14
+Scandinavian,10004,15
+Scandinavian,10022,11
+Scandinavian,11222,10
+Fruits/Vegetables,11226,14
+Fruits/Vegetables,10018,3
+Fruits/Vegetables,10314,22
+Fruits/Vegetables,10026,16
+Chilean,11368,14
+Chilean,11103,14
+Chilean,10031,25
+Nuts/Confectionary,10003,1
+Nuts/Confectionary,11217,10
+Nuts/Confectionary,10011,17
+Nuts/Confectionary,10012,4
+Nuts/Confectionary,10014,15
+Iranian,10016,17
+Iranian,10003,19
+Iranian,11364,6
+Soups,11217,14
+Soups,10002,4
+Soups,10019,8
+Soups,10014,1
+Soups,10169,6
+Polynesian,10029,29
+Basque,10017,24
+Basque,10036,5
+Czech,11105,6
+Czech,11102,14
+Czech,11209,7
